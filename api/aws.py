@@ -3,8 +3,8 @@ import boto3
 import uuid
 import zipfile
 import shutil
-from datetime import datetime
-
+from datetime import datetime, timezone
+from fastapi import UploadFile, Request
     
 
 
@@ -23,7 +23,18 @@ def get_s3_client():
     return s3_client
 
 
-def upload_file_to_s3(file_path):
+async def upload_and_get_s3_url(file : UploadFile, generated_file_name : str):
+    s3_client = get_s3_client()
+    bucket_name = os.environ["AWS_S3_BUCKET_NAME"]
+
+    key = f"pdf/{generated_file_name}"
+    file_content = await file.read()
+    s3_client.put_object(Bucket=bucket_name, Key=key, Body=file_content)
+    
+    return f"s3://{bucket_name}/{key}"
+
+
+def upload_file_to_s3_by_file_path(file_path):
     s3_client = get_s3_client()
 
     log_filename = generate_log_filename(file_path)
@@ -35,7 +46,7 @@ def upload_file_to_s3(file_path):
     )
 
 def generate_log_filename(file_path):
-    timestamp = datetime.utcnow().strftime("%Y-%m-%dT%H-%M-%SZ")
+    timestamp = datetime.now(timezone.utc).strftime("%Y-%m-%dT%H-%M-%SZ")
     unique_id = str(uuid.uuid4())
     filename_without_exstension = get_filename_without_extension(file_path)
     file_extension = get_extension_from_file_path(file_path)
@@ -52,3 +63,10 @@ def get_extension_from_file_path(file_path : str):
     _, ext = os.path.splitext(file_path)
 
     return ext
+
+
+if __name__ == "__main__":
+    test_file_name = "hello.pdf"
+    generated_log_file_name = generate_log_filename(test_file_name)
+
+    print(generated_log_file_name)
