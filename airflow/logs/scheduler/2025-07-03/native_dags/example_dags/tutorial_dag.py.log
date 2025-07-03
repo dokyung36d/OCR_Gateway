@@ -1283,3 +1283,605 @@
 [2025-07-03T04:54:32.177+0000] {logging_mixin.py:188} INFO - [2025-07-03T04:54:32.177+0000] {dag.py:3096} INFO - Sync 1 DAGs
 [2025-07-03T04:54:32.189+0000] {logging_mixin.py:188} INFO - [2025-07-03T04:54:32.189+0000] {dag.py:3954} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
 [2025-07-03T04:54:32.210+0000] {processor.py:183} INFO - Processing /home/ubuntu/miniconda3/envs/OCR_Gateway_Airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py took 0.068 seconds
+[2025-07-03T04:55:16.612+0000] {processor.py:161} INFO - Started process (PID=23940) to work on /home/ubuntu/miniconda3/envs/OCR_Gateway_Airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-07-03T04:55:16.614+0000] {processor.py:830} INFO - Processing file /home/ubuntu/miniconda3/envs/OCR_Gateway_Airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2025-07-03T04:55:16.615+0000] {logging_mixin.py:188} INFO - [2025-07-03T04:55:16.615+0000] {dagbag.py:545} INFO - Filling up the DagBag from /home/ubuntu/miniconda3/envs/OCR_Gateway_Airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-07-03T04:55:16.621+0000] {processor.py:840} INFO - DAG(s) 'tutorial_dag' retrieved from /home/ubuntu/miniconda3/envs/OCR_Gateway_Airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-07-03T04:55:16.638+0000] {logging_mixin.py:188} INFO - [2025-07-03T04:55:16.638+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-07-03T04:55:16.650+0000] {logging_mixin.py:188} INFO - [2025-07-03T04:55:16.649+0000] {dag.py:3954} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2025-07-03T04:55:16.672+0000] {processor.py:183} INFO - Processing /home/ubuntu/miniconda3/envs/OCR_Gateway_Airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py took 0.069 seconds
+[2025-07-03T04:56:03.049+0000] {processor.py:161} INFO - Started process (PID=24024) to work on /home/ubuntu/miniconda3/envs/OCR_Gateway_Airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-07-03T04:56:03.051+0000] {processor.py:830} INFO - Processing file /home/ubuntu/miniconda3/envs/OCR_Gateway_Airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2025-07-03T04:56:03.051+0000] {logging_mixin.py:188} INFO - [2025-07-03T04:56:03.051+0000] {dagbag.py:545} INFO - Filling up the DagBag from /home/ubuntu/miniconda3/envs/OCR_Gateway_Airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-07-03T04:56:03.057+0000] {processor.py:840} INFO - DAG(s) 'tutorial_dag' retrieved from /home/ubuntu/miniconda3/envs/OCR_Gateway_Airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-07-03T04:56:03.075+0000] {logging_mixin.py:188} INFO - [2025-07-03T04:56:03.075+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-07-03T04:56:03.088+0000] {logging_mixin.py:188} INFO - [2025-07-03T04:56:03.087+0000] {dag.py:3954} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2025-07-03T04:56:03.111+0000] {processor.py:183} INFO - Processing /home/ubuntu/miniconda3/envs/OCR_Gateway_Airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py took 0.072 seconds
+[2025-07-03T04:56:50.587+0000] {processor.py:161} INFO - Started process (PID=24085) to work on /home/ubuntu/miniconda3/envs/OCR_Gateway_Airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-07-03T04:56:50.588+0000] {processor.py:830} INFO - Processing file /home/ubuntu/miniconda3/envs/OCR_Gateway_Airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2025-07-03T04:56:50.589+0000] {logging_mixin.py:188} INFO - [2025-07-03T04:56:50.589+0000] {dagbag.py:545} INFO - Filling up the DagBag from /home/ubuntu/miniconda3/envs/OCR_Gateway_Airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-07-03T04:56:50.595+0000] {processor.py:840} INFO - DAG(s) 'tutorial_dag' retrieved from /home/ubuntu/miniconda3/envs/OCR_Gateway_Airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-07-03T04:56:50.613+0000] {logging_mixin.py:188} INFO - [2025-07-03T04:56:50.612+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-07-03T04:56:50.625+0000] {logging_mixin.py:188} INFO - [2025-07-03T04:56:50.625+0000] {dag.py:3954} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2025-07-03T04:56:50.647+0000] {processor.py:183} INFO - Processing /home/ubuntu/miniconda3/envs/OCR_Gateway_Airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py took 0.071 seconds
+[2025-07-03T04:57:33.482+0000] {processor.py:161} INFO - Started process (PID=24311) to work on /home/ubuntu/miniconda3/envs/OCR_Gateway_Airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-07-03T04:57:33.483+0000] {processor.py:830} INFO - Processing file /home/ubuntu/miniconda3/envs/OCR_Gateway_Airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2025-07-03T04:57:33.484+0000] {logging_mixin.py:188} INFO - [2025-07-03T04:57:33.484+0000] {dagbag.py:545} INFO - Filling up the DagBag from /home/ubuntu/miniconda3/envs/OCR_Gateway_Airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-07-03T04:57:33.490+0000] {processor.py:840} INFO - DAG(s) 'tutorial_dag' retrieved from /home/ubuntu/miniconda3/envs/OCR_Gateway_Airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-07-03T04:57:33.508+0000] {logging_mixin.py:188} INFO - [2025-07-03T04:57:33.508+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-07-03T04:57:33.520+0000] {logging_mixin.py:188} INFO - [2025-07-03T04:57:33.520+0000] {dag.py:3954} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2025-07-03T04:57:33.544+0000] {processor.py:183} INFO - Processing /home/ubuntu/miniconda3/envs/OCR_Gateway_Airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py took 0.072 seconds
+[2025-07-03T04:58:15.825+0000] {processor.py:161} INFO - Started process (PID=24386) to work on /home/ubuntu/miniconda3/envs/OCR_Gateway_Airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-07-03T04:58:15.827+0000] {processor.py:830} INFO - Processing file /home/ubuntu/miniconda3/envs/OCR_Gateway_Airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2025-07-03T04:58:15.828+0000] {logging_mixin.py:188} INFO - [2025-07-03T04:58:15.828+0000] {dagbag.py:545} INFO - Filling up the DagBag from /home/ubuntu/miniconda3/envs/OCR_Gateway_Airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-07-03T04:58:15.834+0000] {processor.py:840} INFO - DAG(s) 'tutorial_dag' retrieved from /home/ubuntu/miniconda3/envs/OCR_Gateway_Airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-07-03T04:58:15.851+0000] {logging_mixin.py:188} INFO - [2025-07-03T04:58:15.850+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-07-03T04:58:15.862+0000] {logging_mixin.py:188} INFO - [2025-07-03T04:58:15.862+0000] {dag.py:3954} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2025-07-03T04:58:15.885+0000] {processor.py:183} INFO - Processing /home/ubuntu/miniconda3/envs/OCR_Gateway_Airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py took 0.069 seconds
+[2025-07-03T04:59:00.088+0000] {processor.py:161} INFO - Started process (PID=24434) to work on /home/ubuntu/miniconda3/envs/OCR_Gateway_Airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-07-03T04:59:00.090+0000] {processor.py:830} INFO - Processing file /home/ubuntu/miniconda3/envs/OCR_Gateway_Airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2025-07-03T04:59:00.091+0000] {logging_mixin.py:188} INFO - [2025-07-03T04:59:00.090+0000] {dagbag.py:545} INFO - Filling up the DagBag from /home/ubuntu/miniconda3/envs/OCR_Gateway_Airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-07-03T04:59:00.097+0000] {processor.py:840} INFO - DAG(s) 'tutorial_dag' retrieved from /home/ubuntu/miniconda3/envs/OCR_Gateway_Airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-07-03T04:59:00.113+0000] {logging_mixin.py:188} INFO - [2025-07-03T04:59:00.113+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-07-03T04:59:00.125+0000] {logging_mixin.py:188} INFO - [2025-07-03T04:59:00.125+0000] {dag.py:3954} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2025-07-03T04:59:00.147+0000] {processor.py:183} INFO - Processing /home/ubuntu/miniconda3/envs/OCR_Gateway_Airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py took 0.068 seconds
+[2025-07-03T04:59:41.423+0000] {processor.py:161} INFO - Started process (PID=24505) to work on /home/ubuntu/miniconda3/envs/OCR_Gateway_Airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-07-03T04:59:41.425+0000] {processor.py:830} INFO - Processing file /home/ubuntu/miniconda3/envs/OCR_Gateway_Airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2025-07-03T04:59:41.426+0000] {logging_mixin.py:188} INFO - [2025-07-03T04:59:41.425+0000] {dagbag.py:545} INFO - Filling up the DagBag from /home/ubuntu/miniconda3/envs/OCR_Gateway_Airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-07-03T04:59:41.431+0000] {processor.py:840} INFO - DAG(s) 'tutorial_dag' retrieved from /home/ubuntu/miniconda3/envs/OCR_Gateway_Airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-07-03T04:59:41.449+0000] {logging_mixin.py:188} INFO - [2025-07-03T04:59:41.448+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-07-03T04:59:41.461+0000] {logging_mixin.py:188} INFO - [2025-07-03T04:59:41.460+0000] {dag.py:3954} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2025-07-03T04:59:41.483+0000] {processor.py:183} INFO - Processing /home/ubuntu/miniconda3/envs/OCR_Gateway_Airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py took 0.070 seconds
+[2025-07-03T05:00:23.647+0000] {processor.py:161} INFO - Started process (PID=24551) to work on /home/ubuntu/miniconda3/envs/OCR_Gateway_Airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-07-03T05:00:23.648+0000] {processor.py:830} INFO - Processing file /home/ubuntu/miniconda3/envs/OCR_Gateway_Airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2025-07-03T05:00:23.649+0000] {logging_mixin.py:188} INFO - [2025-07-03T05:00:23.649+0000] {dagbag.py:545} INFO - Filling up the DagBag from /home/ubuntu/miniconda3/envs/OCR_Gateway_Airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-07-03T05:00:23.655+0000] {processor.py:840} INFO - DAG(s) 'tutorial_dag' retrieved from /home/ubuntu/miniconda3/envs/OCR_Gateway_Airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-07-03T05:00:23.671+0000] {logging_mixin.py:188} INFO - [2025-07-03T05:00:23.671+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-07-03T05:00:23.683+0000] {logging_mixin.py:188} INFO - [2025-07-03T05:00:23.683+0000] {dag.py:3954} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2025-07-03T05:00:23.705+0000] {processor.py:183} INFO - Processing /home/ubuntu/miniconda3/envs/OCR_Gateway_Airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py took 0.068 seconds
+[2025-07-03T05:01:05.967+0000] {processor.py:161} INFO - Started process (PID=24601) to work on /home/ubuntu/miniconda3/envs/OCR_Gateway_Airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-07-03T05:01:05.968+0000] {processor.py:830} INFO - Processing file /home/ubuntu/miniconda3/envs/OCR_Gateway_Airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2025-07-03T05:01:05.969+0000] {logging_mixin.py:188} INFO - [2025-07-03T05:01:05.969+0000] {dagbag.py:545} INFO - Filling up the DagBag from /home/ubuntu/miniconda3/envs/OCR_Gateway_Airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-07-03T05:01:05.975+0000] {processor.py:840} INFO - DAG(s) 'tutorial_dag' retrieved from /home/ubuntu/miniconda3/envs/OCR_Gateway_Airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-07-03T05:01:05.991+0000] {logging_mixin.py:188} INFO - [2025-07-03T05:01:05.991+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-07-03T05:01:06.003+0000] {logging_mixin.py:188} INFO - [2025-07-03T05:01:06.003+0000] {dag.py:3954} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2025-07-03T05:01:06.025+0000] {processor.py:183} INFO - Processing /home/ubuntu/miniconda3/envs/OCR_Gateway_Airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py took 0.068 seconds
+[2025-07-03T05:01:47.686+0000] {processor.py:161} INFO - Started process (PID=24647) to work on /home/ubuntu/miniconda3/envs/OCR_Gateway_Airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-07-03T05:01:47.688+0000] {processor.py:830} INFO - Processing file /home/ubuntu/miniconda3/envs/OCR_Gateway_Airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2025-07-03T05:01:47.689+0000] {logging_mixin.py:188} INFO - [2025-07-03T05:01:47.689+0000] {dagbag.py:545} INFO - Filling up the DagBag from /home/ubuntu/miniconda3/envs/OCR_Gateway_Airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-07-03T05:01:47.695+0000] {processor.py:840} INFO - DAG(s) 'tutorial_dag' retrieved from /home/ubuntu/miniconda3/envs/OCR_Gateway_Airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-07-03T05:01:47.711+0000] {logging_mixin.py:188} INFO - [2025-07-03T05:01:47.711+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-07-03T05:01:47.722+0000] {logging_mixin.py:188} INFO - [2025-07-03T05:01:47.722+0000] {dag.py:3954} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2025-07-03T05:01:47.744+0000] {processor.py:183} INFO - Processing /home/ubuntu/miniconda3/envs/OCR_Gateway_Airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py took 0.067 seconds
+[2025-07-03T05:02:28.345+0000] {processor.py:161} INFO - Started process (PID=24692) to work on /home/ubuntu/miniconda3/envs/OCR_Gateway_Airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-07-03T05:02:28.347+0000] {processor.py:830} INFO - Processing file /home/ubuntu/miniconda3/envs/OCR_Gateway_Airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2025-07-03T05:02:28.348+0000] {logging_mixin.py:188} INFO - [2025-07-03T05:02:28.348+0000] {dagbag.py:545} INFO - Filling up the DagBag from /home/ubuntu/miniconda3/envs/OCR_Gateway_Airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-07-03T05:02:28.354+0000] {processor.py:840} INFO - DAG(s) 'tutorial_dag' retrieved from /home/ubuntu/miniconda3/envs/OCR_Gateway_Airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-07-03T05:02:28.372+0000] {logging_mixin.py:188} INFO - [2025-07-03T05:02:28.371+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-07-03T05:02:28.383+0000] {logging_mixin.py:188} INFO - [2025-07-03T05:02:28.383+0000] {dag.py:3954} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2025-07-03T05:02:28.405+0000] {processor.py:183} INFO - Processing /home/ubuntu/miniconda3/envs/OCR_Gateway_Airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py took 0.070 seconds
+[2025-07-03T05:03:11.635+0000] {processor.py:161} INFO - Started process (PID=24743) to work on /home/ubuntu/miniconda3/envs/OCR_Gateway_Airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-07-03T05:03:11.637+0000] {processor.py:830} INFO - Processing file /home/ubuntu/miniconda3/envs/OCR_Gateway_Airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2025-07-03T05:03:11.638+0000] {logging_mixin.py:188} INFO - [2025-07-03T05:03:11.637+0000] {dagbag.py:545} INFO - Filling up the DagBag from /home/ubuntu/miniconda3/envs/OCR_Gateway_Airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-07-03T05:03:11.643+0000] {processor.py:840} INFO - DAG(s) 'tutorial_dag' retrieved from /home/ubuntu/miniconda3/envs/OCR_Gateway_Airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-07-03T05:03:11.660+0000] {logging_mixin.py:188} INFO - [2025-07-03T05:03:11.660+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-07-03T05:03:11.671+0000] {logging_mixin.py:188} INFO - [2025-07-03T05:03:11.671+0000] {dag.py:3954} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2025-07-03T05:03:11.693+0000] {processor.py:183} INFO - Processing /home/ubuntu/miniconda3/envs/OCR_Gateway_Airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py took 0.067 seconds
+[2025-07-03T05:03:56.819+0000] {processor.py:161} INFO - Started process (PID=24799) to work on /home/ubuntu/miniconda3/envs/OCR_Gateway_Airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-07-03T05:03:56.820+0000] {processor.py:830} INFO - Processing file /home/ubuntu/miniconda3/envs/OCR_Gateway_Airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2025-07-03T05:03:56.822+0000] {logging_mixin.py:188} INFO - [2025-07-03T05:03:56.822+0000] {dagbag.py:545} INFO - Filling up the DagBag from /home/ubuntu/miniconda3/envs/OCR_Gateway_Airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-07-03T05:03:56.829+0000] {processor.py:840} INFO - DAG(s) 'tutorial_dag' retrieved from /home/ubuntu/miniconda3/envs/OCR_Gateway_Airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-07-03T05:03:56.846+0000] {logging_mixin.py:188} INFO - [2025-07-03T05:03:56.846+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-07-03T05:03:56.858+0000] {logging_mixin.py:188} INFO - [2025-07-03T05:03:56.858+0000] {dag.py:3954} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2025-07-03T05:03:56.880+0000] {processor.py:183} INFO - Processing /home/ubuntu/miniconda3/envs/OCR_Gateway_Airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py took 0.075 seconds
+[2025-07-03T05:04:50.511+0000] {processor.py:161} INFO - Started process (PID=25150) to work on /home/ubuntu/miniconda3/envs/OCR_Gateway_Airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-07-03T05:04:50.512+0000] {processor.py:830} INFO - Processing file /home/ubuntu/miniconda3/envs/OCR_Gateway_Airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2025-07-03T05:04:50.513+0000] {logging_mixin.py:188} INFO - [2025-07-03T05:04:50.513+0000] {dagbag.py:545} INFO - Filling up the DagBag from /home/ubuntu/miniconda3/envs/OCR_Gateway_Airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-07-03T05:04:50.519+0000] {processor.py:840} INFO - DAG(s) 'tutorial_dag' retrieved from /home/ubuntu/miniconda3/envs/OCR_Gateway_Airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-07-03T05:04:50.536+0000] {logging_mixin.py:188} INFO - [2025-07-03T05:04:50.536+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-07-03T05:04:50.548+0000] {logging_mixin.py:188} INFO - [2025-07-03T05:04:50.548+0000] {dag.py:3954} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2025-07-03T05:04:50.571+0000] {processor.py:183} INFO - Processing /home/ubuntu/miniconda3/envs/OCR_Gateway_Airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py took 0.071 seconds
+[2025-07-03T05:05:35.868+0000] {processor.py:161} INFO - Started process (PID=25291) to work on /home/ubuntu/miniconda3/envs/OCR_Gateway_Airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-07-03T05:05:35.870+0000] {processor.py:830} INFO - Processing file /home/ubuntu/miniconda3/envs/OCR_Gateway_Airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2025-07-03T05:05:35.870+0000] {logging_mixin.py:188} INFO - [2025-07-03T05:05:35.870+0000] {dagbag.py:545} INFO - Filling up the DagBag from /home/ubuntu/miniconda3/envs/OCR_Gateway_Airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-07-03T05:05:35.876+0000] {processor.py:840} INFO - DAG(s) 'tutorial_dag' retrieved from /home/ubuntu/miniconda3/envs/OCR_Gateway_Airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-07-03T05:05:35.893+0000] {logging_mixin.py:188} INFO - [2025-07-03T05:05:35.893+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-07-03T05:05:35.904+0000] {logging_mixin.py:188} INFO - [2025-07-03T05:05:35.904+0000] {dag.py:3954} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2025-07-03T05:05:35.926+0000] {processor.py:183} INFO - Processing /home/ubuntu/miniconda3/envs/OCR_Gateway_Airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py took 0.067 seconds
+[2025-07-03T05:06:21.160+0000] {processor.py:161} INFO - Started process (PID=25365) to work on /home/ubuntu/miniconda3/envs/OCR_Gateway_Airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-07-03T05:06:21.162+0000] {processor.py:830} INFO - Processing file /home/ubuntu/miniconda3/envs/OCR_Gateway_Airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2025-07-03T05:06:21.165+0000] {logging_mixin.py:188} INFO - [2025-07-03T05:06:21.164+0000] {dagbag.py:545} INFO - Filling up the DagBag from /home/ubuntu/miniconda3/envs/OCR_Gateway_Airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-07-03T05:06:21.170+0000] {processor.py:840} INFO - DAG(s) 'tutorial_dag' retrieved from /home/ubuntu/miniconda3/envs/OCR_Gateway_Airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-07-03T05:06:21.190+0000] {logging_mixin.py:188} INFO - [2025-07-03T05:06:21.189+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-07-03T05:06:21.202+0000] {logging_mixin.py:188} INFO - [2025-07-03T05:06:21.202+0000] {dag.py:3954} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2025-07-03T05:06:21.239+0000] {processor.py:183} INFO - Processing /home/ubuntu/miniconda3/envs/OCR_Gateway_Airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py took 0.089 seconds
+[2025-07-03T05:07:07.298+0000] {processor.py:161} INFO - Started process (PID=25451) to work on /home/ubuntu/miniconda3/envs/OCR_Gateway_Airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-07-03T05:07:07.300+0000] {processor.py:830} INFO - Processing file /home/ubuntu/miniconda3/envs/OCR_Gateway_Airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2025-07-03T05:07:07.301+0000] {logging_mixin.py:188} INFO - [2025-07-03T05:07:07.300+0000] {dagbag.py:545} INFO - Filling up the DagBag from /home/ubuntu/miniconda3/envs/OCR_Gateway_Airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-07-03T05:07:07.307+0000] {processor.py:840} INFO - DAG(s) 'tutorial_dag' retrieved from /home/ubuntu/miniconda3/envs/OCR_Gateway_Airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-07-03T05:07:07.324+0000] {logging_mixin.py:188} INFO - [2025-07-03T05:07:07.324+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-07-03T05:07:07.336+0000] {logging_mixin.py:188} INFO - [2025-07-03T05:07:07.336+0000] {dag.py:3954} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2025-07-03T05:07:07.360+0000] {processor.py:183} INFO - Processing /home/ubuntu/miniconda3/envs/OCR_Gateway_Airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py took 0.072 seconds
+[2025-07-03T05:07:52.482+0000] {processor.py:161} INFO - Started process (PID=25518) to work on /home/ubuntu/miniconda3/envs/OCR_Gateway_Airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-07-03T05:07:52.484+0000] {processor.py:830} INFO - Processing file /home/ubuntu/miniconda3/envs/OCR_Gateway_Airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2025-07-03T05:07:52.485+0000] {logging_mixin.py:188} INFO - [2025-07-03T05:07:52.485+0000] {dagbag.py:545} INFO - Filling up the DagBag from /home/ubuntu/miniconda3/envs/OCR_Gateway_Airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-07-03T05:07:52.491+0000] {processor.py:840} INFO - DAG(s) 'tutorial_dag' retrieved from /home/ubuntu/miniconda3/envs/OCR_Gateway_Airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-07-03T05:07:52.508+0000] {logging_mixin.py:188} INFO - [2025-07-03T05:07:52.508+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-07-03T05:07:52.520+0000] {logging_mixin.py:188} INFO - [2025-07-03T05:07:52.519+0000] {dag.py:3954} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2025-07-03T05:07:52.542+0000] {processor.py:183} INFO - Processing /home/ubuntu/miniconda3/envs/OCR_Gateway_Airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py took 0.069 seconds
+[2025-07-03T05:08:37.895+0000] {processor.py:161} INFO - Started process (PID=25566) to work on /home/ubuntu/miniconda3/envs/OCR_Gateway_Airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-07-03T05:08:37.897+0000] {processor.py:830} INFO - Processing file /home/ubuntu/miniconda3/envs/OCR_Gateway_Airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2025-07-03T05:08:37.898+0000] {logging_mixin.py:188} INFO - [2025-07-03T05:08:37.897+0000] {dagbag.py:545} INFO - Filling up the DagBag from /home/ubuntu/miniconda3/envs/OCR_Gateway_Airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-07-03T05:08:37.904+0000] {processor.py:840} INFO - DAG(s) 'tutorial_dag' retrieved from /home/ubuntu/miniconda3/envs/OCR_Gateway_Airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-07-03T05:08:37.921+0000] {logging_mixin.py:188} INFO - [2025-07-03T05:08:37.920+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-07-03T05:08:37.932+0000] {logging_mixin.py:188} INFO - [2025-07-03T05:08:37.932+0000] {dag.py:3954} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2025-07-03T05:08:37.955+0000] {processor.py:183} INFO - Processing /home/ubuntu/miniconda3/envs/OCR_Gateway_Airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py took 0.069 seconds
+[2025-07-03T05:09:23.259+0000] {processor.py:161} INFO - Started process (PID=25638) to work on /home/ubuntu/miniconda3/envs/OCR_Gateway_Airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-07-03T05:09:23.261+0000] {processor.py:830} INFO - Processing file /home/ubuntu/miniconda3/envs/OCR_Gateway_Airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2025-07-03T05:09:23.262+0000] {logging_mixin.py:188} INFO - [2025-07-03T05:09:23.261+0000] {dagbag.py:545} INFO - Filling up the DagBag from /home/ubuntu/miniconda3/envs/OCR_Gateway_Airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-07-03T05:09:23.267+0000] {processor.py:840} INFO - DAG(s) 'tutorial_dag' retrieved from /home/ubuntu/miniconda3/envs/OCR_Gateway_Airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-07-03T05:09:23.284+0000] {logging_mixin.py:188} INFO - [2025-07-03T05:09:23.284+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-07-03T05:09:23.296+0000] {logging_mixin.py:188} INFO - [2025-07-03T05:09:23.296+0000] {dag.py:3954} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2025-07-03T05:09:23.317+0000] {processor.py:183} INFO - Processing /home/ubuntu/miniconda3/envs/OCR_Gateway_Airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py took 0.068 seconds
+[2025-07-03T05:10:09.480+0000] {processor.py:161} INFO - Started process (PID=25770) to work on /home/ubuntu/miniconda3/envs/OCR_Gateway_Airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-07-03T05:10:09.482+0000] {processor.py:830} INFO - Processing file /home/ubuntu/miniconda3/envs/OCR_Gateway_Airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2025-07-03T05:10:09.483+0000] {logging_mixin.py:188} INFO - [2025-07-03T05:10:09.483+0000] {dagbag.py:545} INFO - Filling up the DagBag from /home/ubuntu/miniconda3/envs/OCR_Gateway_Airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-07-03T05:10:09.489+0000] {processor.py:840} INFO - DAG(s) 'tutorial_dag' retrieved from /home/ubuntu/miniconda3/envs/OCR_Gateway_Airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-07-03T05:10:09.507+0000] {logging_mixin.py:188} INFO - [2025-07-03T05:10:09.506+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-07-03T05:10:09.519+0000] {logging_mixin.py:188} INFO - [2025-07-03T05:10:09.518+0000] {dag.py:3954} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2025-07-03T05:10:09.541+0000] {processor.py:183} INFO - Processing /home/ubuntu/miniconda3/envs/OCR_Gateway_Airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py took 0.070 seconds
+[2025-07-03T05:10:52.380+0000] {processor.py:161} INFO - Started process (PID=25856) to work on /home/ubuntu/miniconda3/envs/OCR_Gateway_Airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-07-03T05:10:52.381+0000] {processor.py:830} INFO - Processing file /home/ubuntu/miniconda3/envs/OCR_Gateway_Airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2025-07-03T05:10:52.382+0000] {logging_mixin.py:188} INFO - [2025-07-03T05:10:52.382+0000] {dagbag.py:545} INFO - Filling up the DagBag from /home/ubuntu/miniconda3/envs/OCR_Gateway_Airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-07-03T05:10:52.388+0000] {processor.py:840} INFO - DAG(s) 'tutorial_dag' retrieved from /home/ubuntu/miniconda3/envs/OCR_Gateway_Airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-07-03T05:10:52.405+0000] {logging_mixin.py:188} INFO - [2025-07-03T05:10:52.405+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-07-03T05:10:52.417+0000] {logging_mixin.py:188} INFO - [2025-07-03T05:10:52.417+0000] {dag.py:3954} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2025-07-03T05:10:52.439+0000] {processor.py:183} INFO - Processing /home/ubuntu/miniconda3/envs/OCR_Gateway_Airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py took 0.069 seconds
+[2025-07-03T05:11:41.417+0000] {processor.py:161} INFO - Started process (PID=25946) to work on /home/ubuntu/miniconda3/envs/OCR_Gateway_Airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-07-03T05:11:41.418+0000] {processor.py:830} INFO - Processing file /home/ubuntu/miniconda3/envs/OCR_Gateway_Airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2025-07-03T05:11:41.419+0000] {logging_mixin.py:188} INFO - [2025-07-03T05:11:41.419+0000] {dagbag.py:545} INFO - Filling up the DagBag from /home/ubuntu/miniconda3/envs/OCR_Gateway_Airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-07-03T05:11:41.425+0000] {processor.py:840} INFO - DAG(s) 'tutorial_dag' retrieved from /home/ubuntu/miniconda3/envs/OCR_Gateway_Airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-07-03T05:11:41.441+0000] {logging_mixin.py:188} INFO - [2025-07-03T05:11:41.441+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-07-03T05:11:41.453+0000] {logging_mixin.py:188} INFO - [2025-07-03T05:11:41.453+0000] {dag.py:3954} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2025-07-03T05:11:41.475+0000] {processor.py:183} INFO - Processing /home/ubuntu/miniconda3/envs/OCR_Gateway_Airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py took 0.068 seconds
+[2025-07-03T05:12:26.656+0000] {processor.py:161} INFO - Started process (PID=26014) to work on /home/ubuntu/miniconda3/envs/OCR_Gateway_Airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-07-03T05:12:26.658+0000] {processor.py:830} INFO - Processing file /home/ubuntu/miniconda3/envs/OCR_Gateway_Airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2025-07-03T05:12:26.659+0000] {logging_mixin.py:188} INFO - [2025-07-03T05:12:26.659+0000] {dagbag.py:545} INFO - Filling up the DagBag from /home/ubuntu/miniconda3/envs/OCR_Gateway_Airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-07-03T05:12:26.665+0000] {processor.py:840} INFO - DAG(s) 'tutorial_dag' retrieved from /home/ubuntu/miniconda3/envs/OCR_Gateway_Airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-07-03T05:12:26.683+0000] {logging_mixin.py:188} INFO - [2025-07-03T05:12:26.682+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-07-03T05:12:26.695+0000] {logging_mixin.py:188} INFO - [2025-07-03T05:12:26.695+0000] {dag.py:3954} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2025-07-03T05:12:26.719+0000] {processor.py:183} INFO - Processing /home/ubuntu/miniconda3/envs/OCR_Gateway_Airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py took 0.072 seconds
+[2025-07-03T05:13:07.831+0000] {processor.py:161} INFO - Started process (PID=26058) to work on /home/ubuntu/miniconda3/envs/OCR_Gateway_Airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-07-03T05:13:07.833+0000] {processor.py:830} INFO - Processing file /home/ubuntu/miniconda3/envs/OCR_Gateway_Airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2025-07-03T05:13:07.834+0000] {logging_mixin.py:188} INFO - [2025-07-03T05:13:07.833+0000] {dagbag.py:545} INFO - Filling up the DagBag from /home/ubuntu/miniconda3/envs/OCR_Gateway_Airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-07-03T05:13:07.839+0000] {processor.py:840} INFO - DAG(s) 'tutorial_dag' retrieved from /home/ubuntu/miniconda3/envs/OCR_Gateway_Airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-07-03T05:13:07.856+0000] {logging_mixin.py:188} INFO - [2025-07-03T05:13:07.856+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-07-03T05:13:07.868+0000] {logging_mixin.py:188} INFO - [2025-07-03T05:13:07.867+0000] {dag.py:3954} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2025-07-03T05:13:07.891+0000] {processor.py:183} INFO - Processing /home/ubuntu/miniconda3/envs/OCR_Gateway_Airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py took 0.069 seconds
+[2025-07-03T05:13:48.972+0000] {processor.py:161} INFO - Started process (PID=26102) to work on /home/ubuntu/miniconda3/envs/OCR_Gateway_Airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-07-03T05:13:48.973+0000] {processor.py:830} INFO - Processing file /home/ubuntu/miniconda3/envs/OCR_Gateway_Airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2025-07-03T05:13:48.974+0000] {logging_mixin.py:188} INFO - [2025-07-03T05:13:48.974+0000] {dagbag.py:545} INFO - Filling up the DagBag from /home/ubuntu/miniconda3/envs/OCR_Gateway_Airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-07-03T05:13:48.980+0000] {processor.py:840} INFO - DAG(s) 'tutorial_dag' retrieved from /home/ubuntu/miniconda3/envs/OCR_Gateway_Airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-07-03T05:13:48.997+0000] {logging_mixin.py:188} INFO - [2025-07-03T05:13:48.997+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-07-03T05:13:49.009+0000] {logging_mixin.py:188} INFO - [2025-07-03T05:13:49.009+0000] {dag.py:3954} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2025-07-03T05:13:49.032+0000] {processor.py:183} INFO - Processing /home/ubuntu/miniconda3/envs/OCR_Gateway_Airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py took 0.069 seconds
+[2025-07-03T05:14:35.560+0000] {processor.py:161} INFO - Started process (PID=26160) to work on /home/ubuntu/miniconda3/envs/OCR_Gateway_Airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-07-03T05:14:35.562+0000] {processor.py:830} INFO - Processing file /home/ubuntu/miniconda3/envs/OCR_Gateway_Airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2025-07-03T05:14:35.563+0000] {logging_mixin.py:188} INFO - [2025-07-03T05:14:35.562+0000] {dagbag.py:545} INFO - Filling up the DagBag from /home/ubuntu/miniconda3/envs/OCR_Gateway_Airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-07-03T05:14:35.568+0000] {processor.py:840} INFO - DAG(s) 'tutorial_dag' retrieved from /home/ubuntu/miniconda3/envs/OCR_Gateway_Airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-07-03T05:14:35.586+0000] {logging_mixin.py:188} INFO - [2025-07-03T05:14:35.586+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-07-03T05:14:35.598+0000] {logging_mixin.py:188} INFO - [2025-07-03T05:14:35.597+0000] {dag.py:3954} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2025-07-03T05:14:35.620+0000] {processor.py:183} INFO - Processing /home/ubuntu/miniconda3/envs/OCR_Gateway_Airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py took 0.070 seconds
+[2025-07-03T05:15:21.090+0000] {processor.py:161} INFO - Started process (PID=26234) to work on /home/ubuntu/miniconda3/envs/OCR_Gateway_Airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-07-03T05:15:21.091+0000] {processor.py:830} INFO - Processing file /home/ubuntu/miniconda3/envs/OCR_Gateway_Airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2025-07-03T05:15:21.092+0000] {logging_mixin.py:188} INFO - [2025-07-03T05:15:21.092+0000] {dagbag.py:545} INFO - Filling up the DagBag from /home/ubuntu/miniconda3/envs/OCR_Gateway_Airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-07-03T05:15:21.098+0000] {processor.py:840} INFO - DAG(s) 'tutorial_dag' retrieved from /home/ubuntu/miniconda3/envs/OCR_Gateway_Airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-07-03T05:15:21.115+0000] {logging_mixin.py:188} INFO - [2025-07-03T05:15:21.115+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-07-03T05:15:21.128+0000] {logging_mixin.py:188} INFO - [2025-07-03T05:15:21.127+0000] {dag.py:3954} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2025-07-03T05:15:21.150+0000] {processor.py:183} INFO - Processing /home/ubuntu/miniconda3/envs/OCR_Gateway_Airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py took 0.069 seconds
+[2025-07-03T05:16:03.091+0000] {processor.py:161} INFO - Started process (PID=26280) to work on /home/ubuntu/miniconda3/envs/OCR_Gateway_Airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-07-03T05:16:03.092+0000] {processor.py:830} INFO - Processing file /home/ubuntu/miniconda3/envs/OCR_Gateway_Airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2025-07-03T05:16:03.093+0000] {logging_mixin.py:188} INFO - [2025-07-03T05:16:03.093+0000] {dagbag.py:545} INFO - Filling up the DagBag from /home/ubuntu/miniconda3/envs/OCR_Gateway_Airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-07-03T05:16:03.099+0000] {processor.py:840} INFO - DAG(s) 'tutorial_dag' retrieved from /home/ubuntu/miniconda3/envs/OCR_Gateway_Airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-07-03T05:16:03.116+0000] {logging_mixin.py:188} INFO - [2025-07-03T05:16:03.116+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-07-03T05:16:03.128+0000] {logging_mixin.py:188} INFO - [2025-07-03T05:16:03.128+0000] {dag.py:3954} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2025-07-03T05:16:03.157+0000] {processor.py:183} INFO - Processing /home/ubuntu/miniconda3/envs/OCR_Gateway_Airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py took 0.075 seconds
+[2025-07-03T05:16:47.446+0000] {processor.py:161} INFO - Started process (PID=26324) to work on /home/ubuntu/miniconda3/envs/OCR_Gateway_Airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-07-03T05:16:47.448+0000] {processor.py:830} INFO - Processing file /home/ubuntu/miniconda3/envs/OCR_Gateway_Airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2025-07-03T05:16:47.449+0000] {logging_mixin.py:188} INFO - [2025-07-03T05:16:47.448+0000] {dagbag.py:545} INFO - Filling up the DagBag from /home/ubuntu/miniconda3/envs/OCR_Gateway_Airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-07-03T05:16:47.454+0000] {processor.py:840} INFO - DAG(s) 'tutorial_dag' retrieved from /home/ubuntu/miniconda3/envs/OCR_Gateway_Airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-07-03T05:16:47.471+0000] {logging_mixin.py:188} INFO - [2025-07-03T05:16:47.471+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-07-03T05:16:47.483+0000] {logging_mixin.py:188} INFO - [2025-07-03T05:16:47.483+0000] {dag.py:3954} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2025-07-03T05:16:47.507+0000] {processor.py:183} INFO - Processing /home/ubuntu/miniconda3/envs/OCR_Gateway_Airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py took 0.070 seconds
+[2025-07-03T05:17:31.383+0000] {processor.py:161} INFO - Started process (PID=26375) to work on /home/ubuntu/miniconda3/envs/OCR_Gateway_Airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-07-03T05:17:31.385+0000] {processor.py:830} INFO - Processing file /home/ubuntu/miniconda3/envs/OCR_Gateway_Airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2025-07-03T05:17:31.385+0000] {logging_mixin.py:188} INFO - [2025-07-03T05:17:31.385+0000] {dagbag.py:545} INFO - Filling up the DagBag from /home/ubuntu/miniconda3/envs/OCR_Gateway_Airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-07-03T05:17:31.391+0000] {processor.py:840} INFO - DAG(s) 'tutorial_dag' retrieved from /home/ubuntu/miniconda3/envs/OCR_Gateway_Airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-07-03T05:17:31.409+0000] {logging_mixin.py:188} INFO - [2025-07-03T05:17:31.409+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-07-03T05:17:31.421+0000] {logging_mixin.py:188} INFO - [2025-07-03T05:17:31.420+0000] {dag.py:3954} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2025-07-03T05:17:31.443+0000] {processor.py:183} INFO - Processing /home/ubuntu/miniconda3/envs/OCR_Gateway_Airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py took 0.069 seconds
+[2025-07-03T05:18:14.519+0000] {processor.py:161} INFO - Started process (PID=26420) to work on /home/ubuntu/miniconda3/envs/OCR_Gateway_Airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-07-03T05:18:14.521+0000] {processor.py:830} INFO - Processing file /home/ubuntu/miniconda3/envs/OCR_Gateway_Airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2025-07-03T05:18:14.522+0000] {logging_mixin.py:188} INFO - [2025-07-03T05:18:14.521+0000] {dagbag.py:545} INFO - Filling up the DagBag from /home/ubuntu/miniconda3/envs/OCR_Gateway_Airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-07-03T05:18:14.527+0000] {processor.py:840} INFO - DAG(s) 'tutorial_dag' retrieved from /home/ubuntu/miniconda3/envs/OCR_Gateway_Airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-07-03T05:18:14.544+0000] {logging_mixin.py:188} INFO - [2025-07-03T05:18:14.544+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-07-03T05:18:14.556+0000] {logging_mixin.py:188} INFO - [2025-07-03T05:18:14.556+0000] {dag.py:3954} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2025-07-03T05:18:14.578+0000] {processor.py:183} INFO - Processing /home/ubuntu/miniconda3/envs/OCR_Gateway_Airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py took 0.068 seconds
+[2025-07-03T05:18:59.056+0000] {processor.py:161} INFO - Started process (PID=26468) to work on /home/ubuntu/miniconda3/envs/OCR_Gateway_Airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-07-03T05:18:59.058+0000] {processor.py:830} INFO - Processing file /home/ubuntu/miniconda3/envs/OCR_Gateway_Airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2025-07-03T05:18:59.058+0000] {logging_mixin.py:188} INFO - [2025-07-03T05:18:59.058+0000] {dagbag.py:545} INFO - Filling up the DagBag from /home/ubuntu/miniconda3/envs/OCR_Gateway_Airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-07-03T05:18:59.064+0000] {processor.py:840} INFO - DAG(s) 'tutorial_dag' retrieved from /home/ubuntu/miniconda3/envs/OCR_Gateway_Airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-07-03T05:18:59.080+0000] {logging_mixin.py:188} INFO - [2025-07-03T05:18:59.080+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-07-03T05:18:59.092+0000] {logging_mixin.py:188} INFO - [2025-07-03T05:18:59.092+0000] {dag.py:3954} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2025-07-03T05:18:59.114+0000] {processor.py:183} INFO - Processing /home/ubuntu/miniconda3/envs/OCR_Gateway_Airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py took 0.067 seconds
+[2025-07-03T05:19:44.607+0000] {processor.py:161} INFO - Started process (PID=26555) to work on /home/ubuntu/miniconda3/envs/OCR_Gateway_Airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-07-03T05:19:44.609+0000] {processor.py:830} INFO - Processing file /home/ubuntu/miniconda3/envs/OCR_Gateway_Airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2025-07-03T05:19:44.610+0000] {logging_mixin.py:188} INFO - [2025-07-03T05:19:44.609+0000] {dagbag.py:545} INFO - Filling up the DagBag from /home/ubuntu/miniconda3/envs/OCR_Gateway_Airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-07-03T05:19:44.616+0000] {processor.py:840} INFO - DAG(s) 'tutorial_dag' retrieved from /home/ubuntu/miniconda3/envs/OCR_Gateway_Airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-07-03T05:19:44.632+0000] {logging_mixin.py:188} INFO - [2025-07-03T05:19:44.632+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-07-03T05:19:44.644+0000] {logging_mixin.py:188} INFO - [2025-07-03T05:19:44.644+0000] {dag.py:3954} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2025-07-03T05:19:44.667+0000] {processor.py:183} INFO - Processing /home/ubuntu/miniconda3/envs/OCR_Gateway_Airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py took 0.069 seconds
+[2025-07-03T05:21:09.288+0000] {processor.py:161} INFO - Started process (PID=26842) to work on /home/ubuntu/miniconda3/envs/OCR_Gateway_Airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-07-03T05:21:09.290+0000] {processor.py:830} INFO - Processing file /home/ubuntu/miniconda3/envs/OCR_Gateway_Airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2025-07-03T05:21:09.292+0000] {logging_mixin.py:188} INFO - [2025-07-03T05:21:09.292+0000] {dagbag.py:545} INFO - Filling up the DagBag from /home/ubuntu/miniconda3/envs/OCR_Gateway_Airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-07-03T05:21:09.301+0000] {processor.py:840} INFO - DAG(s) 'tutorial_dag' retrieved from /home/ubuntu/miniconda3/envs/OCR_Gateway_Airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-07-03T05:21:09.324+0000] {logging_mixin.py:188} INFO - [2025-07-03T05:21:09.324+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-07-03T05:21:09.338+0000] {logging_mixin.py:188} INFO - [2025-07-03T05:21:09.337+0000] {dag.py:3954} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2025-07-03T05:21:09.360+0000] {processor.py:183} INFO - Processing /home/ubuntu/miniconda3/envs/OCR_Gateway_Airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py took 0.079 seconds
+[2025-07-03T05:22:07.376+0000] {processor.py:161} INFO - Started process (PID=26899) to work on /home/ubuntu/miniconda3/envs/OCR_Gateway_Airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-07-03T05:22:07.377+0000] {processor.py:830} INFO - Processing file /home/ubuntu/miniconda3/envs/OCR_Gateway_Airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2025-07-03T05:22:07.379+0000] {logging_mixin.py:188} INFO - [2025-07-03T05:22:07.379+0000] {dagbag.py:545} INFO - Filling up the DagBag from /home/ubuntu/miniconda3/envs/OCR_Gateway_Airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-07-03T05:22:07.385+0000] {processor.py:840} INFO - DAG(s) 'tutorial_dag' retrieved from /home/ubuntu/miniconda3/envs/OCR_Gateway_Airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-07-03T05:22:07.401+0000] {logging_mixin.py:188} INFO - [2025-07-03T05:22:07.401+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-07-03T05:22:07.412+0000] {logging_mixin.py:188} INFO - [2025-07-03T05:22:07.412+0000] {dag.py:3954} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2025-07-03T05:22:07.434+0000] {processor.py:183} INFO - Processing /home/ubuntu/miniconda3/envs/OCR_Gateway_Airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py took 0.064 seconds
+[2025-07-03T05:22:50.067+0000] {processor.py:161} INFO - Started process (PID=26945) to work on /home/ubuntu/miniconda3/envs/OCR_Gateway_Airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-07-03T05:22:50.069+0000] {processor.py:830} INFO - Processing file /home/ubuntu/miniconda3/envs/OCR_Gateway_Airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2025-07-03T05:22:50.071+0000] {logging_mixin.py:188} INFO - [2025-07-03T05:22:50.071+0000] {dagbag.py:545} INFO - Filling up the DagBag from /home/ubuntu/miniconda3/envs/OCR_Gateway_Airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-07-03T05:22:50.077+0000] {processor.py:840} INFO - DAG(s) 'tutorial_dag' retrieved from /home/ubuntu/miniconda3/envs/OCR_Gateway_Airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-07-03T05:22:50.094+0000] {logging_mixin.py:188} INFO - [2025-07-03T05:22:50.094+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-07-03T05:22:50.106+0000] {logging_mixin.py:188} INFO - [2025-07-03T05:22:50.106+0000] {dag.py:3954} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2025-07-03T05:22:50.129+0000] {processor.py:183} INFO - Processing /home/ubuntu/miniconda3/envs/OCR_Gateway_Airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py took 0.068 seconds
+[2025-07-03T05:23:43.037+0000] {processor.py:161} INFO - Started process (PID=27000) to work on /home/ubuntu/miniconda3/envs/OCR_Gateway_Airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-07-03T05:23:43.039+0000] {processor.py:830} INFO - Processing file /home/ubuntu/miniconda3/envs/OCR_Gateway_Airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2025-07-03T05:23:43.040+0000] {logging_mixin.py:188} INFO - [2025-07-03T05:23:43.040+0000] {dagbag.py:545} INFO - Filling up the DagBag from /home/ubuntu/miniconda3/envs/OCR_Gateway_Airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-07-03T05:23:43.046+0000] {processor.py:840} INFO - DAG(s) 'tutorial_dag' retrieved from /home/ubuntu/miniconda3/envs/OCR_Gateway_Airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-07-03T05:23:43.178+0000] {logging_mixin.py:188} INFO - [2025-07-03T05:23:43.178+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-07-03T05:23:43.188+0000] {logging_mixin.py:188} INFO - [2025-07-03T05:23:43.187+0000] {dag.py:3954} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2025-07-03T05:23:43.207+0000] {processor.py:183} INFO - Processing /home/ubuntu/miniconda3/envs/OCR_Gateway_Airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py took 0.176 seconds
+[2025-07-03T05:24:30.230+0000] {processor.py:161} INFO - Started process (PID=27050) to work on /home/ubuntu/miniconda3/envs/OCR_Gateway_Airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-07-03T05:24:30.232+0000] {processor.py:830} INFO - Processing file /home/ubuntu/miniconda3/envs/OCR_Gateway_Airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2025-07-03T05:24:30.234+0000] {logging_mixin.py:188} INFO - [2025-07-03T05:24:30.234+0000] {dagbag.py:545} INFO - Filling up the DagBag from /home/ubuntu/miniconda3/envs/OCR_Gateway_Airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-07-03T05:24:30.240+0000] {processor.py:840} INFO - DAG(s) 'tutorial_dag' retrieved from /home/ubuntu/miniconda3/envs/OCR_Gateway_Airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-07-03T05:24:30.256+0000] {logging_mixin.py:188} INFO - [2025-07-03T05:24:30.256+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-07-03T05:24:30.268+0000] {logging_mixin.py:188} INFO - [2025-07-03T05:24:30.268+0000] {dag.py:3954} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2025-07-03T05:24:30.291+0000] {processor.py:183} INFO - Processing /home/ubuntu/miniconda3/envs/OCR_Gateway_Airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py took 0.068 seconds
+[2025-07-03T05:25:12.940+0000] {processor.py:161} INFO - Started process (PID=27100) to work on /home/ubuntu/miniconda3/envs/OCR_Gateway_Airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-07-03T05:25:12.941+0000] {processor.py:830} INFO - Processing file /home/ubuntu/miniconda3/envs/OCR_Gateway_Airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2025-07-03T05:25:12.943+0000] {logging_mixin.py:188} INFO - [2025-07-03T05:25:12.943+0000] {dagbag.py:545} INFO - Filling up the DagBag from /home/ubuntu/miniconda3/envs/OCR_Gateway_Airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-07-03T05:25:12.949+0000] {processor.py:840} INFO - DAG(s) 'tutorial_dag' retrieved from /home/ubuntu/miniconda3/envs/OCR_Gateway_Airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-07-03T05:25:12.966+0000] {logging_mixin.py:188} INFO - [2025-07-03T05:25:12.965+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-07-03T05:25:12.977+0000] {logging_mixin.py:188} INFO - [2025-07-03T05:25:12.977+0000] {dag.py:3954} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2025-07-03T05:25:13.000+0000] {processor.py:183} INFO - Processing /home/ubuntu/miniconda3/envs/OCR_Gateway_Airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py took 0.066 seconds
+[2025-07-03T05:25:57.257+0000] {processor.py:161} INFO - Started process (PID=27147) to work on /home/ubuntu/miniconda3/envs/OCR_Gateway_Airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-07-03T05:25:57.259+0000] {processor.py:830} INFO - Processing file /home/ubuntu/miniconda3/envs/OCR_Gateway_Airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2025-07-03T05:25:57.261+0000] {logging_mixin.py:188} INFO - [2025-07-03T05:25:57.260+0000] {dagbag.py:545} INFO - Filling up the DagBag from /home/ubuntu/miniconda3/envs/OCR_Gateway_Airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-07-03T05:25:57.267+0000] {processor.py:840} INFO - DAG(s) 'tutorial_dag' retrieved from /home/ubuntu/miniconda3/envs/OCR_Gateway_Airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-07-03T05:25:57.284+0000] {logging_mixin.py:188} INFO - [2025-07-03T05:25:57.284+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-07-03T05:25:57.297+0000] {logging_mixin.py:188} INFO - [2025-07-03T05:25:57.296+0000] {dag.py:3954} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2025-07-03T05:25:57.320+0000] {processor.py:183} INFO - Processing /home/ubuntu/miniconda3/envs/OCR_Gateway_Airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py took 0.069 seconds
+[2025-07-03T05:26:42.157+0000] {processor.py:161} INFO - Started process (PID=27195) to work on /home/ubuntu/miniconda3/envs/OCR_Gateway_Airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-07-03T05:26:42.159+0000] {processor.py:830} INFO - Processing file /home/ubuntu/miniconda3/envs/OCR_Gateway_Airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2025-07-03T05:26:42.161+0000] {logging_mixin.py:188} INFO - [2025-07-03T05:26:42.160+0000] {dagbag.py:545} INFO - Filling up the DagBag from /home/ubuntu/miniconda3/envs/OCR_Gateway_Airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-07-03T05:26:42.166+0000] {processor.py:840} INFO - DAG(s) 'tutorial_dag' retrieved from /home/ubuntu/miniconda3/envs/OCR_Gateway_Airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-07-03T05:26:42.183+0000] {logging_mixin.py:188} INFO - [2025-07-03T05:26:42.182+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-07-03T05:26:42.194+0000] {logging_mixin.py:188} INFO - [2025-07-03T05:26:42.194+0000] {dag.py:3954} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2025-07-03T05:26:42.217+0000] {processor.py:183} INFO - Processing /home/ubuntu/miniconda3/envs/OCR_Gateway_Airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py took 0.067 seconds
+[2025-07-03T05:27:26.975+0000] {processor.py:161} INFO - Started process (PID=27243) to work on /home/ubuntu/miniconda3/envs/OCR_Gateway_Airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-07-03T05:27:26.977+0000] {processor.py:830} INFO - Processing file /home/ubuntu/miniconda3/envs/OCR_Gateway_Airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2025-07-03T05:27:26.979+0000] {logging_mixin.py:188} INFO - [2025-07-03T05:27:26.978+0000] {dagbag.py:545} INFO - Filling up the DagBag from /home/ubuntu/miniconda3/envs/OCR_Gateway_Airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-07-03T05:27:26.984+0000] {processor.py:840} INFO - DAG(s) 'tutorial_dag' retrieved from /home/ubuntu/miniconda3/envs/OCR_Gateway_Airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-07-03T05:27:27.001+0000] {logging_mixin.py:188} INFO - [2025-07-03T05:27:27.000+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-07-03T05:27:27.012+0000] {logging_mixin.py:188} INFO - [2025-07-03T05:27:27.012+0000] {dag.py:3954} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2025-07-03T05:27:27.034+0000] {processor.py:183} INFO - Processing /home/ubuntu/miniconda3/envs/OCR_Gateway_Airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py took 0.065 seconds
+[2025-07-03T05:28:10.690+0000] {processor.py:161} INFO - Started process (PID=27287) to work on /home/ubuntu/miniconda3/envs/OCR_Gateway_Airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-07-03T05:28:10.691+0000] {processor.py:830} INFO - Processing file /home/ubuntu/miniconda3/envs/OCR_Gateway_Airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2025-07-03T05:28:10.693+0000] {logging_mixin.py:188} INFO - [2025-07-03T05:28:10.693+0000] {dagbag.py:545} INFO - Filling up the DagBag from /home/ubuntu/miniconda3/envs/OCR_Gateway_Airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-07-03T05:28:10.699+0000] {processor.py:840} INFO - DAG(s) 'tutorial_dag' retrieved from /home/ubuntu/miniconda3/envs/OCR_Gateway_Airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-07-03T05:28:10.715+0000] {logging_mixin.py:188} INFO - [2025-07-03T05:28:10.715+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-07-03T05:28:10.728+0000] {logging_mixin.py:188} INFO - [2025-07-03T05:28:10.727+0000] {dag.py:3954} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2025-07-03T05:28:10.751+0000] {processor.py:183} INFO - Processing /home/ubuntu/miniconda3/envs/OCR_Gateway_Airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py took 0.068 seconds
+[2025-07-03T05:28:58.535+0000] {processor.py:161} INFO - Started process (PID=27337) to work on /home/ubuntu/miniconda3/envs/OCR_Gateway_Airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-07-03T05:28:58.536+0000] {processor.py:830} INFO - Processing file /home/ubuntu/miniconda3/envs/OCR_Gateway_Airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2025-07-03T05:28:58.538+0000] {logging_mixin.py:188} INFO - [2025-07-03T05:28:58.538+0000] {dagbag.py:545} INFO - Filling up the DagBag from /home/ubuntu/miniconda3/envs/OCR_Gateway_Airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-07-03T05:28:58.544+0000] {processor.py:840} INFO - DAG(s) 'tutorial_dag' retrieved from /home/ubuntu/miniconda3/envs/OCR_Gateway_Airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-07-03T05:28:58.560+0000] {logging_mixin.py:188} INFO - [2025-07-03T05:28:58.560+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-07-03T05:28:58.572+0000] {logging_mixin.py:188} INFO - [2025-07-03T05:28:58.572+0000] {dag.py:3954} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2025-07-03T05:28:58.593+0000] {processor.py:183} INFO - Processing /home/ubuntu/miniconda3/envs/OCR_Gateway_Airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py took 0.065 seconds
+[2025-07-03T05:29:40.115+0000] {processor.py:161} INFO - Started process (PID=27382) to work on /home/ubuntu/miniconda3/envs/OCR_Gateway_Airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-07-03T05:29:40.117+0000] {processor.py:830} INFO - Processing file /home/ubuntu/miniconda3/envs/OCR_Gateway_Airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2025-07-03T05:29:40.119+0000] {logging_mixin.py:188} INFO - [2025-07-03T05:29:40.118+0000] {dagbag.py:545} INFO - Filling up the DagBag from /home/ubuntu/miniconda3/envs/OCR_Gateway_Airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-07-03T05:29:40.125+0000] {processor.py:840} INFO - DAG(s) 'tutorial_dag' retrieved from /home/ubuntu/miniconda3/envs/OCR_Gateway_Airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-07-03T05:29:40.141+0000] {logging_mixin.py:188} INFO - [2025-07-03T05:29:40.141+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-07-03T05:29:40.153+0000] {logging_mixin.py:188} INFO - [2025-07-03T05:29:40.153+0000] {dag.py:3954} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2025-07-03T05:29:40.175+0000] {processor.py:183} INFO - Processing /home/ubuntu/miniconda3/envs/OCR_Gateway_Airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py took 0.066 seconds
+[2025-07-03T05:30:27.658+0000] {processor.py:161} INFO - Started process (PID=27430) to work on /home/ubuntu/miniconda3/envs/OCR_Gateway_Airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-07-03T05:30:27.660+0000] {processor.py:830} INFO - Processing file /home/ubuntu/miniconda3/envs/OCR_Gateway_Airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2025-07-03T05:30:27.662+0000] {logging_mixin.py:188} INFO - [2025-07-03T05:30:27.661+0000] {dagbag.py:545} INFO - Filling up the DagBag from /home/ubuntu/miniconda3/envs/OCR_Gateway_Airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-07-03T05:30:27.667+0000] {processor.py:840} INFO - DAG(s) 'tutorial_dag' retrieved from /home/ubuntu/miniconda3/envs/OCR_Gateway_Airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-07-03T05:30:27.684+0000] {logging_mixin.py:188} INFO - [2025-07-03T05:30:27.684+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-07-03T05:30:27.695+0000] {logging_mixin.py:188} INFO - [2025-07-03T05:30:27.695+0000] {dag.py:3954} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2025-07-03T05:30:27.718+0000] {processor.py:183} INFO - Processing /home/ubuntu/miniconda3/envs/OCR_Gateway_Airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py took 0.067 seconds
+[2025-07-03T05:31:12.833+0000] {processor.py:161} INFO - Started process (PID=27482) to work on /home/ubuntu/miniconda3/envs/OCR_Gateway_Airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-07-03T05:31:12.835+0000] {processor.py:830} INFO - Processing file /home/ubuntu/miniconda3/envs/OCR_Gateway_Airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2025-07-03T05:31:12.837+0000] {logging_mixin.py:188} INFO - [2025-07-03T05:31:12.836+0000] {dagbag.py:545} INFO - Filling up the DagBag from /home/ubuntu/miniconda3/envs/OCR_Gateway_Airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-07-03T05:31:12.843+0000] {processor.py:840} INFO - DAG(s) 'tutorial_dag' retrieved from /home/ubuntu/miniconda3/envs/OCR_Gateway_Airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-07-03T05:31:12.859+0000] {logging_mixin.py:188} INFO - [2025-07-03T05:31:12.859+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-07-03T05:31:12.871+0000] {logging_mixin.py:188} INFO - [2025-07-03T05:31:12.871+0000] {dag.py:3954} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2025-07-03T05:31:12.893+0000] {processor.py:183} INFO - Processing /home/ubuntu/miniconda3/envs/OCR_Gateway_Airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py took 0.067 seconds
+[2025-07-03T05:31:56.493+0000] {processor.py:161} INFO - Started process (PID=27528) to work on /home/ubuntu/miniconda3/envs/OCR_Gateway_Airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-07-03T05:31:56.495+0000] {processor.py:830} INFO - Processing file /home/ubuntu/miniconda3/envs/OCR_Gateway_Airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2025-07-03T05:31:56.497+0000] {logging_mixin.py:188} INFO - [2025-07-03T05:31:56.496+0000] {dagbag.py:545} INFO - Filling up the DagBag from /home/ubuntu/miniconda3/envs/OCR_Gateway_Airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-07-03T05:31:56.502+0000] {processor.py:840} INFO - DAG(s) 'tutorial_dag' retrieved from /home/ubuntu/miniconda3/envs/OCR_Gateway_Airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-07-03T05:31:56.519+0000] {logging_mixin.py:188} INFO - [2025-07-03T05:31:56.519+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-07-03T05:31:56.531+0000] {logging_mixin.py:188} INFO - [2025-07-03T05:31:56.531+0000] {dag.py:3954} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2025-07-03T05:31:56.553+0000] {processor.py:183} INFO - Processing /home/ubuntu/miniconda3/envs/OCR_Gateway_Airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py took 0.066 seconds
+[2025-07-03T05:32:37.972+0000] {processor.py:161} INFO - Started process (PID=27572) to work on /home/ubuntu/miniconda3/envs/OCR_Gateway_Airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-07-03T05:32:37.973+0000] {processor.py:830} INFO - Processing file /home/ubuntu/miniconda3/envs/OCR_Gateway_Airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2025-07-03T05:32:37.975+0000] {logging_mixin.py:188} INFO - [2025-07-03T05:32:37.975+0000] {dagbag.py:545} INFO - Filling up the DagBag from /home/ubuntu/miniconda3/envs/OCR_Gateway_Airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-07-03T05:32:37.981+0000] {processor.py:840} INFO - DAG(s) 'tutorial_dag' retrieved from /home/ubuntu/miniconda3/envs/OCR_Gateway_Airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-07-03T05:32:37.998+0000] {logging_mixin.py:188} INFO - [2025-07-03T05:32:37.998+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-07-03T05:32:38.010+0000] {logging_mixin.py:188} INFO - [2025-07-03T05:32:38.010+0000] {dag.py:3954} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2025-07-03T05:32:38.033+0000] {processor.py:183} INFO - Processing /home/ubuntu/miniconda3/envs/OCR_Gateway_Airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py took 0.067 seconds
+[2025-07-03T05:33:19.649+0000] {processor.py:161} INFO - Started process (PID=27617) to work on /home/ubuntu/miniconda3/envs/OCR_Gateway_Airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-07-03T05:33:19.651+0000] {processor.py:830} INFO - Processing file /home/ubuntu/miniconda3/envs/OCR_Gateway_Airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2025-07-03T05:33:19.652+0000] {logging_mixin.py:188} INFO - [2025-07-03T05:33:19.652+0000] {dagbag.py:545} INFO - Filling up the DagBag from /home/ubuntu/miniconda3/envs/OCR_Gateway_Airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-07-03T05:33:19.658+0000] {processor.py:840} INFO - DAG(s) 'tutorial_dag' retrieved from /home/ubuntu/miniconda3/envs/OCR_Gateway_Airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-07-03T05:33:19.675+0000] {logging_mixin.py:188} INFO - [2025-07-03T05:33:19.675+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-07-03T05:33:19.688+0000] {logging_mixin.py:188} INFO - [2025-07-03T05:33:19.687+0000] {dag.py:3954} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2025-07-03T05:33:19.710+0000] {processor.py:183} INFO - Processing /home/ubuntu/miniconda3/envs/OCR_Gateway_Airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py took 0.068 seconds
+[2025-07-03T05:34:03.137+0000] {processor.py:161} INFO - Started process (PID=27664) to work on /home/ubuntu/miniconda3/envs/OCR_Gateway_Airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-07-03T05:34:03.139+0000] {processor.py:830} INFO - Processing file /home/ubuntu/miniconda3/envs/OCR_Gateway_Airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2025-07-03T05:34:03.141+0000] {logging_mixin.py:188} INFO - [2025-07-03T05:34:03.140+0000] {dagbag.py:545} INFO - Filling up the DagBag from /home/ubuntu/miniconda3/envs/OCR_Gateway_Airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-07-03T05:34:03.146+0000] {processor.py:840} INFO - DAG(s) 'tutorial_dag' retrieved from /home/ubuntu/miniconda3/envs/OCR_Gateway_Airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-07-03T05:34:03.163+0000] {logging_mixin.py:188} INFO - [2025-07-03T05:34:03.163+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-07-03T05:34:03.175+0000] {logging_mixin.py:188} INFO - [2025-07-03T05:34:03.175+0000] {dag.py:3954} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2025-07-03T05:34:03.197+0000] {processor.py:183} INFO - Processing /home/ubuntu/miniconda3/envs/OCR_Gateway_Airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py took 0.066 seconds
+[2025-07-03T05:34:44.928+0000] {processor.py:161} INFO - Started process (PID=27709) to work on /home/ubuntu/miniconda3/envs/OCR_Gateway_Airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-07-03T05:34:44.930+0000] {processor.py:830} INFO - Processing file /home/ubuntu/miniconda3/envs/OCR_Gateway_Airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2025-07-03T05:34:44.931+0000] {logging_mixin.py:188} INFO - [2025-07-03T05:34:44.931+0000] {dagbag.py:545} INFO - Filling up the DagBag from /home/ubuntu/miniconda3/envs/OCR_Gateway_Airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-07-03T05:34:44.937+0000] {processor.py:840} INFO - DAG(s) 'tutorial_dag' retrieved from /home/ubuntu/miniconda3/envs/OCR_Gateway_Airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-07-03T05:34:44.954+0000] {logging_mixin.py:188} INFO - [2025-07-03T05:34:44.954+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-07-03T05:34:44.965+0000] {logging_mixin.py:188} INFO - [2025-07-03T05:34:44.965+0000] {dag.py:3954} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2025-07-03T05:34:44.990+0000] {processor.py:183} INFO - Processing /home/ubuntu/miniconda3/envs/OCR_Gateway_Airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py took 0.068 seconds
+[2025-07-03T05:35:26.499+0000] {processor.py:161} INFO - Started process (PID=27757) to work on /home/ubuntu/miniconda3/envs/OCR_Gateway_Airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-07-03T05:35:26.500+0000] {processor.py:830} INFO - Processing file /home/ubuntu/miniconda3/envs/OCR_Gateway_Airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2025-07-03T05:35:26.502+0000] {logging_mixin.py:188} INFO - [2025-07-03T05:35:26.502+0000] {dagbag.py:545} INFO - Filling up the DagBag from /home/ubuntu/miniconda3/envs/OCR_Gateway_Airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-07-03T05:35:26.508+0000] {processor.py:840} INFO - DAG(s) 'tutorial_dag' retrieved from /home/ubuntu/miniconda3/envs/OCR_Gateway_Airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-07-03T05:35:26.525+0000] {logging_mixin.py:188} INFO - [2025-07-03T05:35:26.525+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-07-03T05:35:26.538+0000] {logging_mixin.py:188} INFO - [2025-07-03T05:35:26.537+0000] {dag.py:3954} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2025-07-03T05:35:26.560+0000] {processor.py:183} INFO - Processing /home/ubuntu/miniconda3/envs/OCR_Gateway_Airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py took 0.068 seconds
+[2025-07-03T05:36:12.087+0000] {processor.py:161} INFO - Started process (PID=27805) to work on /home/ubuntu/miniconda3/envs/OCR_Gateway_Airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-07-03T05:36:12.089+0000] {processor.py:830} INFO - Processing file /home/ubuntu/miniconda3/envs/OCR_Gateway_Airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2025-07-03T05:36:12.091+0000] {logging_mixin.py:188} INFO - [2025-07-03T05:36:12.090+0000] {dagbag.py:545} INFO - Filling up the DagBag from /home/ubuntu/miniconda3/envs/OCR_Gateway_Airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-07-03T05:36:12.097+0000] {processor.py:840} INFO - DAG(s) 'tutorial_dag' retrieved from /home/ubuntu/miniconda3/envs/OCR_Gateway_Airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-07-03T05:36:12.113+0000] {logging_mixin.py:188} INFO - [2025-07-03T05:36:12.113+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-07-03T05:36:12.125+0000] {logging_mixin.py:188} INFO - [2025-07-03T05:36:12.125+0000] {dag.py:3954} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2025-07-03T05:36:12.147+0000] {processor.py:183} INFO - Processing /home/ubuntu/miniconda3/envs/OCR_Gateway_Airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py took 0.066 seconds
+[2025-07-03T05:36:59.365+0000] {processor.py:161} INFO - Started process (PID=27853) to work on /home/ubuntu/miniconda3/envs/OCR_Gateway_Airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-07-03T05:36:59.366+0000] {processor.py:830} INFO - Processing file /home/ubuntu/miniconda3/envs/OCR_Gateway_Airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2025-07-03T05:36:59.368+0000] {logging_mixin.py:188} INFO - [2025-07-03T05:36:59.368+0000] {dagbag.py:545} INFO - Filling up the DagBag from /home/ubuntu/miniconda3/envs/OCR_Gateway_Airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-07-03T05:36:59.374+0000] {processor.py:840} INFO - DAG(s) 'tutorial_dag' retrieved from /home/ubuntu/miniconda3/envs/OCR_Gateway_Airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-07-03T05:36:59.391+0000] {logging_mixin.py:188} INFO - [2025-07-03T05:36:59.391+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-07-03T05:36:59.403+0000] {logging_mixin.py:188} INFO - [2025-07-03T05:36:59.403+0000] {dag.py:3954} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2025-07-03T05:36:59.425+0000] {processor.py:183} INFO - Processing /home/ubuntu/miniconda3/envs/OCR_Gateway_Airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py took 0.067 seconds
+[2025-07-03T05:37:40.520+0000] {processor.py:161} INFO - Started process (PID=27898) to work on /home/ubuntu/miniconda3/envs/OCR_Gateway_Airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-07-03T05:37:40.522+0000] {processor.py:830} INFO - Processing file /home/ubuntu/miniconda3/envs/OCR_Gateway_Airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2025-07-03T05:37:40.524+0000] {logging_mixin.py:188} INFO - [2025-07-03T05:37:40.523+0000] {dagbag.py:545} INFO - Filling up the DagBag from /home/ubuntu/miniconda3/envs/OCR_Gateway_Airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-07-03T05:37:40.529+0000] {processor.py:840} INFO - DAG(s) 'tutorial_dag' retrieved from /home/ubuntu/miniconda3/envs/OCR_Gateway_Airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-07-03T05:37:40.546+0000] {logging_mixin.py:188} INFO - [2025-07-03T05:37:40.546+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-07-03T05:37:40.558+0000] {logging_mixin.py:188} INFO - [2025-07-03T05:37:40.558+0000] {dag.py:3954} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2025-07-03T05:37:40.580+0000] {processor.py:183} INFO - Processing /home/ubuntu/miniconda3/envs/OCR_Gateway_Airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py took 0.066 seconds
+[2025-07-03T05:38:25.217+0000] {processor.py:161} INFO - Started process (PID=27945) to work on /home/ubuntu/miniconda3/envs/OCR_Gateway_Airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-07-03T05:38:25.218+0000] {processor.py:830} INFO - Processing file /home/ubuntu/miniconda3/envs/OCR_Gateway_Airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2025-07-03T05:38:25.220+0000] {logging_mixin.py:188} INFO - [2025-07-03T05:38:25.220+0000] {dagbag.py:545} INFO - Filling up the DagBag from /home/ubuntu/miniconda3/envs/OCR_Gateway_Airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-07-03T05:38:25.226+0000] {processor.py:840} INFO - DAG(s) 'tutorial_dag' retrieved from /home/ubuntu/miniconda3/envs/OCR_Gateway_Airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-07-03T05:38:25.243+0000] {logging_mixin.py:188} INFO - [2025-07-03T05:38:25.243+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-07-03T05:38:25.255+0000] {logging_mixin.py:188} INFO - [2025-07-03T05:38:25.255+0000] {dag.py:3954} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2025-07-03T05:38:25.278+0000] {processor.py:183} INFO - Processing /home/ubuntu/miniconda3/envs/OCR_Gateway_Airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py took 0.068 seconds
+[2025-07-03T05:39:10.141+0000] {processor.py:161} INFO - Started process (PID=27992) to work on /home/ubuntu/miniconda3/envs/OCR_Gateway_Airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-07-03T05:39:10.143+0000] {processor.py:830} INFO - Processing file /home/ubuntu/miniconda3/envs/OCR_Gateway_Airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2025-07-03T05:39:10.144+0000] {logging_mixin.py:188} INFO - [2025-07-03T05:39:10.144+0000] {dagbag.py:545} INFO - Filling up the DagBag from /home/ubuntu/miniconda3/envs/OCR_Gateway_Airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-07-03T05:39:10.150+0000] {processor.py:840} INFO - DAG(s) 'tutorial_dag' retrieved from /home/ubuntu/miniconda3/envs/OCR_Gateway_Airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-07-03T05:39:10.167+0000] {logging_mixin.py:188} INFO - [2025-07-03T05:39:10.166+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-07-03T05:39:10.178+0000] {logging_mixin.py:188} INFO - [2025-07-03T05:39:10.178+0000] {dag.py:3954} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2025-07-03T05:39:10.200+0000] {processor.py:183} INFO - Processing /home/ubuntu/miniconda3/envs/OCR_Gateway_Airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py took 0.066 seconds
+[2025-07-03T05:39:56.971+0000] {processor.py:161} INFO - Started process (PID=28039) to work on /home/ubuntu/miniconda3/envs/OCR_Gateway_Airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-07-03T05:39:56.973+0000] {processor.py:830} INFO - Processing file /home/ubuntu/miniconda3/envs/OCR_Gateway_Airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2025-07-03T05:39:56.975+0000] {logging_mixin.py:188} INFO - [2025-07-03T05:39:56.974+0000] {dagbag.py:545} INFO - Filling up the DagBag from /home/ubuntu/miniconda3/envs/OCR_Gateway_Airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-07-03T05:39:56.981+0000] {processor.py:840} INFO - DAG(s) 'tutorial_dag' retrieved from /home/ubuntu/miniconda3/envs/OCR_Gateway_Airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-07-03T05:39:56.997+0000] {logging_mixin.py:188} INFO - [2025-07-03T05:39:56.997+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-07-03T05:39:57.009+0000] {logging_mixin.py:188} INFO - [2025-07-03T05:39:57.008+0000] {dag.py:3954} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2025-07-03T05:39:57.032+0000] {processor.py:183} INFO - Processing /home/ubuntu/miniconda3/envs/OCR_Gateway_Airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py took 0.067 seconds
+[2025-07-03T05:40:41.444+0000] {processor.py:161} INFO - Started process (PID=28093) to work on /home/ubuntu/miniconda3/envs/OCR_Gateway_Airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-07-03T05:40:41.446+0000] {processor.py:830} INFO - Processing file /home/ubuntu/miniconda3/envs/OCR_Gateway_Airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2025-07-03T05:40:41.448+0000] {logging_mixin.py:188} INFO - [2025-07-03T05:40:41.447+0000] {dagbag.py:545} INFO - Filling up the DagBag from /home/ubuntu/miniconda3/envs/OCR_Gateway_Airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-07-03T05:40:41.453+0000] {processor.py:840} INFO - DAG(s) 'tutorial_dag' retrieved from /home/ubuntu/miniconda3/envs/OCR_Gateway_Airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-07-03T05:40:41.470+0000] {logging_mixin.py:188} INFO - [2025-07-03T05:40:41.470+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-07-03T05:40:41.481+0000] {logging_mixin.py:188} INFO - [2025-07-03T05:40:41.481+0000] {dag.py:3954} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2025-07-03T05:40:41.504+0000] {processor.py:183} INFO - Processing /home/ubuntu/miniconda3/envs/OCR_Gateway_Airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py took 0.066 seconds
+[2025-07-03T05:41:25.975+0000] {processor.py:161} INFO - Started process (PID=28141) to work on /home/ubuntu/miniconda3/envs/OCR_Gateway_Airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-07-03T05:41:25.977+0000] {processor.py:830} INFO - Processing file /home/ubuntu/miniconda3/envs/OCR_Gateway_Airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2025-07-03T05:41:25.979+0000] {logging_mixin.py:188} INFO - [2025-07-03T05:41:25.978+0000] {dagbag.py:545} INFO - Filling up the DagBag from /home/ubuntu/miniconda3/envs/OCR_Gateway_Airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-07-03T05:41:25.985+0000] {processor.py:840} INFO - DAG(s) 'tutorial_dag' retrieved from /home/ubuntu/miniconda3/envs/OCR_Gateway_Airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-07-03T05:41:26.002+0000] {logging_mixin.py:188} INFO - [2025-07-03T05:41:26.002+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-07-03T05:41:26.014+0000] {logging_mixin.py:188} INFO - [2025-07-03T05:41:26.014+0000] {dag.py:3954} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2025-07-03T05:41:26.037+0000] {processor.py:183} INFO - Processing /home/ubuntu/miniconda3/envs/OCR_Gateway_Airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py took 0.068 seconds
+[2025-07-03T05:42:07.348+0000] {processor.py:161} INFO - Started process (PID=28185) to work on /home/ubuntu/miniconda3/envs/OCR_Gateway_Airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-07-03T05:42:07.350+0000] {processor.py:830} INFO - Processing file /home/ubuntu/miniconda3/envs/OCR_Gateway_Airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2025-07-03T05:42:07.352+0000] {logging_mixin.py:188} INFO - [2025-07-03T05:42:07.351+0000] {dagbag.py:545} INFO - Filling up the DagBag from /home/ubuntu/miniconda3/envs/OCR_Gateway_Airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-07-03T05:42:07.357+0000] {processor.py:840} INFO - DAG(s) 'tutorial_dag' retrieved from /home/ubuntu/miniconda3/envs/OCR_Gateway_Airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-07-03T05:42:07.374+0000] {logging_mixin.py:188} INFO - [2025-07-03T05:42:07.374+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-07-03T05:42:07.386+0000] {logging_mixin.py:188} INFO - [2025-07-03T05:42:07.385+0000] {dag.py:3954} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2025-07-03T05:42:07.408+0000] {processor.py:183} INFO - Processing /home/ubuntu/miniconda3/envs/OCR_Gateway_Airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py took 0.066 seconds
+[2025-07-03T05:42:52.185+0000] {processor.py:161} INFO - Started process (PID=28232) to work on /home/ubuntu/miniconda3/envs/OCR_Gateway_Airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-07-03T05:42:52.186+0000] {processor.py:830} INFO - Processing file /home/ubuntu/miniconda3/envs/OCR_Gateway_Airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2025-07-03T05:42:52.188+0000] {logging_mixin.py:188} INFO - [2025-07-03T05:42:52.188+0000] {dagbag.py:545} INFO - Filling up the DagBag from /home/ubuntu/miniconda3/envs/OCR_Gateway_Airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-07-03T05:42:52.194+0000] {processor.py:840} INFO - DAG(s) 'tutorial_dag' retrieved from /home/ubuntu/miniconda3/envs/OCR_Gateway_Airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-07-03T05:42:52.211+0000] {logging_mixin.py:188} INFO - [2025-07-03T05:42:52.211+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-07-03T05:42:52.223+0000] {logging_mixin.py:188} INFO - [2025-07-03T05:42:52.223+0000] {dag.py:3954} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2025-07-03T05:42:52.247+0000] {processor.py:183} INFO - Processing /home/ubuntu/miniconda3/envs/OCR_Gateway_Airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py took 0.069 seconds
+[2025-07-03T05:43:36.133+0000] {processor.py:161} INFO - Started process (PID=28279) to work on /home/ubuntu/miniconda3/envs/OCR_Gateway_Airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-07-03T05:43:36.134+0000] {processor.py:830} INFO - Processing file /home/ubuntu/miniconda3/envs/OCR_Gateway_Airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2025-07-03T05:43:36.136+0000] {logging_mixin.py:188} INFO - [2025-07-03T05:43:36.136+0000] {dagbag.py:545} INFO - Filling up the DagBag from /home/ubuntu/miniconda3/envs/OCR_Gateway_Airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-07-03T05:43:36.142+0000] {processor.py:840} INFO - DAG(s) 'tutorial_dag' retrieved from /home/ubuntu/miniconda3/envs/OCR_Gateway_Airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-07-03T05:43:36.158+0000] {logging_mixin.py:188} INFO - [2025-07-03T05:43:36.158+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-07-03T05:43:36.169+0000] {logging_mixin.py:188} INFO - [2025-07-03T05:43:36.169+0000] {dag.py:3954} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2025-07-03T05:43:36.193+0000] {processor.py:183} INFO - Processing /home/ubuntu/miniconda3/envs/OCR_Gateway_Airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py took 0.067 seconds
+[2025-07-03T05:44:21.802+0000] {processor.py:161} INFO - Started process (PID=28328) to work on /home/ubuntu/miniconda3/envs/OCR_Gateway_Airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-07-03T05:44:21.803+0000] {processor.py:830} INFO - Processing file /home/ubuntu/miniconda3/envs/OCR_Gateway_Airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2025-07-03T05:44:21.805+0000] {logging_mixin.py:188} INFO - [2025-07-03T05:44:21.805+0000] {dagbag.py:545} INFO - Filling up the DagBag from /home/ubuntu/miniconda3/envs/OCR_Gateway_Airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-07-03T05:44:21.811+0000] {processor.py:840} INFO - DAG(s) 'tutorial_dag' retrieved from /home/ubuntu/miniconda3/envs/OCR_Gateway_Airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-07-03T05:44:21.828+0000] {logging_mixin.py:188} INFO - [2025-07-03T05:44:21.828+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-07-03T05:44:21.840+0000] {logging_mixin.py:188} INFO - [2025-07-03T05:44:21.839+0000] {dag.py:3954} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2025-07-03T05:44:21.862+0000] {processor.py:183} INFO - Processing /home/ubuntu/miniconda3/envs/OCR_Gateway_Airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py took 0.066 seconds
+[2025-07-03T05:45:06.818+0000] {processor.py:161} INFO - Started process (PID=28378) to work on /home/ubuntu/miniconda3/envs/OCR_Gateway_Airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-07-03T05:45:06.819+0000] {processor.py:830} INFO - Processing file /home/ubuntu/miniconda3/envs/OCR_Gateway_Airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2025-07-03T05:45:06.821+0000] {logging_mixin.py:188} INFO - [2025-07-03T05:45:06.821+0000] {dagbag.py:545} INFO - Filling up the DagBag from /home/ubuntu/miniconda3/envs/OCR_Gateway_Airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-07-03T05:45:06.827+0000] {processor.py:840} INFO - DAG(s) 'tutorial_dag' retrieved from /home/ubuntu/miniconda3/envs/OCR_Gateway_Airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-07-03T05:45:06.844+0000] {logging_mixin.py:188} INFO - [2025-07-03T05:45:06.844+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-07-03T05:45:06.856+0000] {logging_mixin.py:188} INFO - [2025-07-03T05:45:06.856+0000] {dag.py:3954} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2025-07-03T05:45:06.879+0000] {processor.py:183} INFO - Processing /home/ubuntu/miniconda3/envs/OCR_Gateway_Airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py took 0.067 seconds
+[2025-07-03T05:45:54.271+0000] {processor.py:161} INFO - Started process (PID=28426) to work on /home/ubuntu/miniconda3/envs/OCR_Gateway_Airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-07-03T05:45:54.272+0000] {processor.py:830} INFO - Processing file /home/ubuntu/miniconda3/envs/OCR_Gateway_Airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2025-07-03T05:45:54.274+0000] {logging_mixin.py:188} INFO - [2025-07-03T05:45:54.274+0000] {dagbag.py:545} INFO - Filling up the DagBag from /home/ubuntu/miniconda3/envs/OCR_Gateway_Airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-07-03T05:45:54.280+0000] {processor.py:840} INFO - DAG(s) 'tutorial_dag' retrieved from /home/ubuntu/miniconda3/envs/OCR_Gateway_Airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-07-03T05:45:54.297+0000] {logging_mixin.py:188} INFO - [2025-07-03T05:45:54.297+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-07-03T05:45:54.309+0000] {logging_mixin.py:188} INFO - [2025-07-03T05:45:54.308+0000] {dag.py:3954} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2025-07-03T05:45:54.332+0000] {processor.py:183} INFO - Processing /home/ubuntu/miniconda3/envs/OCR_Gateway_Airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py took 0.067 seconds
+[2025-07-03T05:46:38.308+0000] {processor.py:161} INFO - Started process (PID=28473) to work on /home/ubuntu/miniconda3/envs/OCR_Gateway_Airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-07-03T05:46:38.310+0000] {processor.py:830} INFO - Processing file /home/ubuntu/miniconda3/envs/OCR_Gateway_Airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2025-07-03T05:46:38.312+0000] {logging_mixin.py:188} INFO - [2025-07-03T05:46:38.311+0000] {dagbag.py:545} INFO - Filling up the DagBag from /home/ubuntu/miniconda3/envs/OCR_Gateway_Airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-07-03T05:46:38.317+0000] {processor.py:840} INFO - DAG(s) 'tutorial_dag' retrieved from /home/ubuntu/miniconda3/envs/OCR_Gateway_Airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-07-03T05:46:38.334+0000] {logging_mixin.py:188} INFO - [2025-07-03T05:46:38.334+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-07-03T05:46:38.345+0000] {logging_mixin.py:188} INFO - [2025-07-03T05:46:38.345+0000] {dag.py:3954} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2025-07-03T05:46:38.368+0000] {processor.py:183} INFO - Processing /home/ubuntu/miniconda3/envs/OCR_Gateway_Airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py took 0.066 seconds
+[2025-07-03T05:47:22.460+0000] {processor.py:161} INFO - Started process (PID=28520) to work on /home/ubuntu/miniconda3/envs/OCR_Gateway_Airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-07-03T05:47:22.461+0000] {processor.py:830} INFO - Processing file /home/ubuntu/miniconda3/envs/OCR_Gateway_Airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2025-07-03T05:47:22.463+0000] {logging_mixin.py:188} INFO - [2025-07-03T05:47:22.463+0000] {dagbag.py:545} INFO - Filling up the DagBag from /home/ubuntu/miniconda3/envs/OCR_Gateway_Airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-07-03T05:47:22.468+0000] {processor.py:840} INFO - DAG(s) 'tutorial_dag' retrieved from /home/ubuntu/miniconda3/envs/OCR_Gateway_Airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-07-03T05:47:22.485+0000] {logging_mixin.py:188} INFO - [2025-07-03T05:47:22.485+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-07-03T05:47:22.496+0000] {logging_mixin.py:188} INFO - [2025-07-03T05:47:22.496+0000] {dag.py:3954} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2025-07-03T05:47:22.518+0000] {processor.py:183} INFO - Processing /home/ubuntu/miniconda3/envs/OCR_Gateway_Airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py took 0.065 seconds
+[2025-07-03T05:48:09.501+0000] {processor.py:161} INFO - Started process (PID=28568) to work on /home/ubuntu/miniconda3/envs/OCR_Gateway_Airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-07-03T05:48:09.503+0000] {processor.py:830} INFO - Processing file /home/ubuntu/miniconda3/envs/OCR_Gateway_Airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2025-07-03T05:48:09.505+0000] {logging_mixin.py:188} INFO - [2025-07-03T05:48:09.504+0000] {dagbag.py:545} INFO - Filling up the DagBag from /home/ubuntu/miniconda3/envs/OCR_Gateway_Airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-07-03T05:48:09.511+0000] {processor.py:840} INFO - DAG(s) 'tutorial_dag' retrieved from /home/ubuntu/miniconda3/envs/OCR_Gateway_Airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-07-03T05:48:09.528+0000] {logging_mixin.py:188} INFO - [2025-07-03T05:48:09.528+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-07-03T05:48:09.540+0000] {logging_mixin.py:188} INFO - [2025-07-03T05:48:09.540+0000] {dag.py:3954} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2025-07-03T05:48:09.562+0000] {processor.py:183} INFO - Processing /home/ubuntu/miniconda3/envs/OCR_Gateway_Airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py took 0.067 seconds
+[2025-07-03T05:48:57.239+0000] {processor.py:161} INFO - Started process (PID=28616) to work on /home/ubuntu/miniconda3/envs/OCR_Gateway_Airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-07-03T05:48:57.241+0000] {processor.py:830} INFO - Processing file /home/ubuntu/miniconda3/envs/OCR_Gateway_Airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2025-07-03T05:48:57.243+0000] {logging_mixin.py:188} INFO - [2025-07-03T05:48:57.242+0000] {dagbag.py:545} INFO - Filling up the DagBag from /home/ubuntu/miniconda3/envs/OCR_Gateway_Airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-07-03T05:48:57.248+0000] {processor.py:840} INFO - DAG(s) 'tutorial_dag' retrieved from /home/ubuntu/miniconda3/envs/OCR_Gateway_Airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-07-03T05:48:57.266+0000] {logging_mixin.py:188} INFO - [2025-07-03T05:48:57.265+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-07-03T05:48:57.277+0000] {logging_mixin.py:188} INFO - [2025-07-03T05:48:57.277+0000] {dag.py:3954} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2025-07-03T05:48:57.300+0000] {processor.py:183} INFO - Processing /home/ubuntu/miniconda3/envs/OCR_Gateway_Airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py took 0.067 seconds
+[2025-07-03T05:49:42.253+0000] {processor.py:161} INFO - Started process (PID=28664) to work on /home/ubuntu/miniconda3/envs/OCR_Gateway_Airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-07-03T05:49:42.255+0000] {processor.py:830} INFO - Processing file /home/ubuntu/miniconda3/envs/OCR_Gateway_Airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2025-07-03T05:49:42.256+0000] {logging_mixin.py:188} INFO - [2025-07-03T05:49:42.256+0000] {dagbag.py:545} INFO - Filling up the DagBag from /home/ubuntu/miniconda3/envs/OCR_Gateway_Airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-07-03T05:49:42.262+0000] {processor.py:840} INFO - DAG(s) 'tutorial_dag' retrieved from /home/ubuntu/miniconda3/envs/OCR_Gateway_Airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-07-03T05:49:42.279+0000] {logging_mixin.py:188} INFO - [2025-07-03T05:49:42.279+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-07-03T05:49:42.291+0000] {logging_mixin.py:188} INFO - [2025-07-03T05:49:42.291+0000] {dag.py:3954} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2025-07-03T05:49:42.314+0000] {processor.py:183} INFO - Processing /home/ubuntu/miniconda3/envs/OCR_Gateway_Airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py took 0.067 seconds
+[2025-07-03T05:50:24.819+0000] {processor.py:161} INFO - Started process (PID=28711) to work on /home/ubuntu/miniconda3/envs/OCR_Gateway_Airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-07-03T05:50:24.821+0000] {processor.py:830} INFO - Processing file /home/ubuntu/miniconda3/envs/OCR_Gateway_Airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2025-07-03T05:50:24.823+0000] {logging_mixin.py:188} INFO - [2025-07-03T05:50:24.822+0000] {dagbag.py:545} INFO - Filling up the DagBag from /home/ubuntu/miniconda3/envs/OCR_Gateway_Airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-07-03T05:50:24.829+0000] {processor.py:840} INFO - DAG(s) 'tutorial_dag' retrieved from /home/ubuntu/miniconda3/envs/OCR_Gateway_Airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-07-03T05:50:24.845+0000] {logging_mixin.py:188} INFO - [2025-07-03T05:50:24.845+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-07-03T05:50:24.856+0000] {logging_mixin.py:188} INFO - [2025-07-03T05:50:24.856+0000] {dag.py:3954} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2025-07-03T05:50:24.879+0000] {processor.py:183} INFO - Processing /home/ubuntu/miniconda3/envs/OCR_Gateway_Airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py took 0.066 seconds
+[2025-07-03T05:51:04.957+0000] {processor.py:161} INFO - Started process (PID=28761) to work on /home/ubuntu/miniconda3/envs/OCR_Gateway_Airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-07-03T05:51:04.959+0000] {processor.py:830} INFO - Processing file /home/ubuntu/miniconda3/envs/OCR_Gateway_Airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2025-07-03T05:51:04.961+0000] {logging_mixin.py:188} INFO - [2025-07-03T05:51:04.961+0000] {dagbag.py:545} INFO - Filling up the DagBag from /home/ubuntu/miniconda3/envs/OCR_Gateway_Airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-07-03T05:51:04.967+0000] {processor.py:840} INFO - DAG(s) 'tutorial_dag' retrieved from /home/ubuntu/miniconda3/envs/OCR_Gateway_Airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-07-03T05:51:04.984+0000] {logging_mixin.py:188} INFO - [2025-07-03T05:51:04.983+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-07-03T05:51:04.995+0000] {logging_mixin.py:188} INFO - [2025-07-03T05:51:04.995+0000] {dag.py:3954} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2025-07-03T05:51:05.018+0000] {processor.py:183} INFO - Processing /home/ubuntu/miniconda3/envs/OCR_Gateway_Airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py took 0.067 seconds
+[2025-07-03T05:51:45.638+0000] {processor.py:161} INFO - Started process (PID=28804) to work on /home/ubuntu/miniconda3/envs/OCR_Gateway_Airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-07-03T05:51:45.640+0000] {processor.py:830} INFO - Processing file /home/ubuntu/miniconda3/envs/OCR_Gateway_Airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2025-07-03T05:51:45.642+0000] {logging_mixin.py:188} INFO - [2025-07-03T05:51:45.641+0000] {dagbag.py:545} INFO - Filling up the DagBag from /home/ubuntu/miniconda3/envs/OCR_Gateway_Airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-07-03T05:51:45.648+0000] {processor.py:840} INFO - DAG(s) 'tutorial_dag' retrieved from /home/ubuntu/miniconda3/envs/OCR_Gateway_Airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-07-03T05:51:45.665+0000] {logging_mixin.py:188} INFO - [2025-07-03T05:51:45.664+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-07-03T05:51:45.676+0000] {logging_mixin.py:188} INFO - [2025-07-03T05:51:45.676+0000] {dag.py:3954} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2025-07-03T05:51:45.697+0000] {processor.py:183} INFO - Processing /home/ubuntu/miniconda3/envs/OCR_Gateway_Airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py took 0.065 seconds
+[2025-07-03T05:52:30.626+0000] {processor.py:161} INFO - Started process (PID=28851) to work on /home/ubuntu/miniconda3/envs/OCR_Gateway_Airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-07-03T05:52:30.627+0000] {processor.py:830} INFO - Processing file /home/ubuntu/miniconda3/envs/OCR_Gateway_Airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2025-07-03T05:52:30.629+0000] {logging_mixin.py:188} INFO - [2025-07-03T05:52:30.629+0000] {dagbag.py:545} INFO - Filling up the DagBag from /home/ubuntu/miniconda3/envs/OCR_Gateway_Airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-07-03T05:52:30.635+0000] {processor.py:840} INFO - DAG(s) 'tutorial_dag' retrieved from /home/ubuntu/miniconda3/envs/OCR_Gateway_Airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-07-03T05:52:30.651+0000] {logging_mixin.py:188} INFO - [2025-07-03T05:52:30.651+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-07-03T05:52:30.663+0000] {logging_mixin.py:188} INFO - [2025-07-03T05:52:30.663+0000] {dag.py:3954} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2025-07-03T05:52:30.685+0000] {processor.py:183} INFO - Processing /home/ubuntu/miniconda3/envs/OCR_Gateway_Airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py took 0.065 seconds
+[2025-07-03T05:53:12.291+0000] {processor.py:161} INFO - Started process (PID=28897) to work on /home/ubuntu/miniconda3/envs/OCR_Gateway_Airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-07-03T05:53:12.292+0000] {processor.py:830} INFO - Processing file /home/ubuntu/miniconda3/envs/OCR_Gateway_Airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2025-07-03T05:53:12.294+0000] {logging_mixin.py:188} INFO - [2025-07-03T05:53:12.294+0000] {dagbag.py:545} INFO - Filling up the DagBag from /home/ubuntu/miniconda3/envs/OCR_Gateway_Airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-07-03T05:53:12.300+0000] {processor.py:840} INFO - DAG(s) 'tutorial_dag' retrieved from /home/ubuntu/miniconda3/envs/OCR_Gateway_Airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-07-03T05:53:12.317+0000] {logging_mixin.py:188} INFO - [2025-07-03T05:53:12.317+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-07-03T05:53:12.329+0000] {logging_mixin.py:188} INFO - [2025-07-03T05:53:12.329+0000] {dag.py:3954} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2025-07-03T05:53:12.352+0000] {processor.py:183} INFO - Processing /home/ubuntu/miniconda3/envs/OCR_Gateway_Airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py took 0.067 seconds
+[2025-07-03T05:53:59.210+0000] {processor.py:161} INFO - Started process (PID=28946) to work on /home/ubuntu/miniconda3/envs/OCR_Gateway_Airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-07-03T05:53:59.211+0000] {processor.py:830} INFO - Processing file /home/ubuntu/miniconda3/envs/OCR_Gateway_Airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2025-07-03T05:53:59.213+0000] {logging_mixin.py:188} INFO - [2025-07-03T05:53:59.213+0000] {dagbag.py:545} INFO - Filling up the DagBag from /home/ubuntu/miniconda3/envs/OCR_Gateway_Airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-07-03T05:53:59.219+0000] {processor.py:840} INFO - DAG(s) 'tutorial_dag' retrieved from /home/ubuntu/miniconda3/envs/OCR_Gateway_Airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-07-03T05:53:59.235+0000] {logging_mixin.py:188} INFO - [2025-07-03T05:53:59.235+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-07-03T05:53:59.247+0000] {logging_mixin.py:188} INFO - [2025-07-03T05:53:59.247+0000] {dag.py:3954} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2025-07-03T05:53:59.269+0000] {processor.py:183} INFO - Processing /home/ubuntu/miniconda3/envs/OCR_Gateway_Airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py took 0.065 seconds
+[2025-07-03T05:54:42.487+0000] {processor.py:161} INFO - Started process (PID=28992) to work on /home/ubuntu/miniconda3/envs/OCR_Gateway_Airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-07-03T05:54:42.489+0000] {processor.py:830} INFO - Processing file /home/ubuntu/miniconda3/envs/OCR_Gateway_Airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2025-07-03T05:54:42.491+0000] {logging_mixin.py:188} INFO - [2025-07-03T05:54:42.490+0000] {dagbag.py:545} INFO - Filling up the DagBag from /home/ubuntu/miniconda3/envs/OCR_Gateway_Airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-07-03T05:54:42.496+0000] {processor.py:840} INFO - DAG(s) 'tutorial_dag' retrieved from /home/ubuntu/miniconda3/envs/OCR_Gateway_Airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-07-03T05:54:42.513+0000] {logging_mixin.py:188} INFO - [2025-07-03T05:54:42.513+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-07-03T05:54:42.524+0000] {logging_mixin.py:188} INFO - [2025-07-03T05:54:42.524+0000] {dag.py:3954} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2025-07-03T05:54:42.547+0000] {processor.py:183} INFO - Processing /home/ubuntu/miniconda3/envs/OCR_Gateway_Airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py took 0.066 seconds
+[2025-07-03T05:55:22.878+0000] {processor.py:161} INFO - Started process (PID=29039) to work on /home/ubuntu/miniconda3/envs/OCR_Gateway_Airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-07-03T05:55:22.880+0000] {processor.py:830} INFO - Processing file /home/ubuntu/miniconda3/envs/OCR_Gateway_Airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2025-07-03T05:55:22.882+0000] {logging_mixin.py:188} INFO - [2025-07-03T05:55:22.882+0000] {dagbag.py:545} INFO - Filling up the DagBag from /home/ubuntu/miniconda3/envs/OCR_Gateway_Airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-07-03T05:55:22.888+0000] {processor.py:840} INFO - DAG(s) 'tutorial_dag' retrieved from /home/ubuntu/miniconda3/envs/OCR_Gateway_Airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-07-03T05:55:22.905+0000] {logging_mixin.py:188} INFO - [2025-07-03T05:55:22.905+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-07-03T05:55:22.917+0000] {logging_mixin.py:188} INFO - [2025-07-03T05:55:22.916+0000] {dag.py:3954} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2025-07-03T05:55:22.939+0000] {processor.py:183} INFO - Processing /home/ubuntu/miniconda3/envs/OCR_Gateway_Airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py took 0.067 seconds
+[2025-07-03T05:56:07.834+0000] {processor.py:161} INFO - Started process (PID=29087) to work on /home/ubuntu/miniconda3/envs/OCR_Gateway_Airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-07-03T05:56:07.836+0000] {processor.py:830} INFO - Processing file /home/ubuntu/miniconda3/envs/OCR_Gateway_Airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2025-07-03T05:56:07.838+0000] {logging_mixin.py:188} INFO - [2025-07-03T05:56:07.837+0000] {dagbag.py:545} INFO - Filling up the DagBag from /home/ubuntu/miniconda3/envs/OCR_Gateway_Airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-07-03T05:56:07.843+0000] {processor.py:840} INFO - DAG(s) 'tutorial_dag' retrieved from /home/ubuntu/miniconda3/envs/OCR_Gateway_Airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-07-03T05:56:07.860+0000] {logging_mixin.py:188} INFO - [2025-07-03T05:56:07.860+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-07-03T05:56:07.871+0000] {logging_mixin.py:188} INFO - [2025-07-03T05:56:07.871+0000] {dag.py:3954} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2025-07-03T05:56:07.893+0000] {processor.py:183} INFO - Processing /home/ubuntu/miniconda3/envs/OCR_Gateway_Airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py took 0.065 seconds
+[2025-07-03T05:56:51.978+0000] {processor.py:161} INFO - Started process (PID=29149) to work on /home/ubuntu/miniconda3/envs/OCR_Gateway_Airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-07-03T05:56:51.980+0000] {processor.py:830} INFO - Processing file /home/ubuntu/miniconda3/envs/OCR_Gateway_Airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2025-07-03T05:56:51.982+0000] {logging_mixin.py:188} INFO - [2025-07-03T05:56:51.981+0000] {dagbag.py:545} INFO - Filling up the DagBag from /home/ubuntu/miniconda3/envs/OCR_Gateway_Airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-07-03T05:56:51.988+0000] {processor.py:840} INFO - DAG(s) 'tutorial_dag' retrieved from /home/ubuntu/miniconda3/envs/OCR_Gateway_Airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-07-03T05:56:52.005+0000] {logging_mixin.py:188} INFO - [2025-07-03T05:56:52.005+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-07-03T05:56:52.016+0000] {logging_mixin.py:188} INFO - [2025-07-03T05:56:52.016+0000] {dag.py:3954} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2025-07-03T05:56:52.039+0000] {processor.py:183} INFO - Processing /home/ubuntu/miniconda3/envs/OCR_Gateway_Airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py took 0.067 seconds
+[2025-07-03T05:57:33.376+0000] {processor.py:161} INFO - Started process (PID=29269) to work on /home/ubuntu/miniconda3/envs/OCR_Gateway_Airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-07-03T05:57:33.378+0000] {processor.py:830} INFO - Processing file /home/ubuntu/miniconda3/envs/OCR_Gateway_Airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2025-07-03T05:57:33.380+0000] {logging_mixin.py:188} INFO - [2025-07-03T05:57:33.379+0000] {dagbag.py:545} INFO - Filling up the DagBag from /home/ubuntu/miniconda3/envs/OCR_Gateway_Airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-07-03T05:57:33.385+0000] {processor.py:840} INFO - DAG(s) 'tutorial_dag' retrieved from /home/ubuntu/miniconda3/envs/OCR_Gateway_Airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-07-03T05:57:33.402+0000] {logging_mixin.py:188} INFO - [2025-07-03T05:57:33.401+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-07-03T05:57:33.413+0000] {logging_mixin.py:188} INFO - [2025-07-03T05:57:33.413+0000] {dag.py:3954} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2025-07-03T05:57:33.435+0000] {processor.py:183} INFO - Processing /home/ubuntu/miniconda3/envs/OCR_Gateway_Airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py took 0.065 seconds
+[2025-07-03T05:58:17.715+0000] {processor.py:161} INFO - Started process (PID=29345) to work on /home/ubuntu/miniconda3/envs/OCR_Gateway_Airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-07-03T05:58:17.716+0000] {processor.py:830} INFO - Processing file /home/ubuntu/miniconda3/envs/OCR_Gateway_Airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2025-07-03T05:58:17.718+0000] {logging_mixin.py:188} INFO - [2025-07-03T05:58:17.718+0000] {dagbag.py:545} INFO - Filling up the DagBag from /home/ubuntu/miniconda3/envs/OCR_Gateway_Airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-07-03T05:58:17.724+0000] {processor.py:840} INFO - DAG(s) 'tutorial_dag' retrieved from /home/ubuntu/miniconda3/envs/OCR_Gateway_Airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-07-03T05:58:17.741+0000] {logging_mixin.py:188} INFO - [2025-07-03T05:58:17.740+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-07-03T05:58:17.752+0000] {logging_mixin.py:188} INFO - [2025-07-03T05:58:17.752+0000] {dag.py:3954} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2025-07-03T05:58:17.774+0000] {processor.py:183} INFO - Processing /home/ubuntu/miniconda3/envs/OCR_Gateway_Airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py took 0.065 seconds
+[2025-07-03T05:59:03.917+0000] {processor.py:161} INFO - Started process (PID=29411) to work on /home/ubuntu/miniconda3/envs/OCR_Gateway_Airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-07-03T05:59:03.919+0000] {processor.py:830} INFO - Processing file /home/ubuntu/miniconda3/envs/OCR_Gateway_Airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2025-07-03T05:59:03.921+0000] {logging_mixin.py:188} INFO - [2025-07-03T05:59:03.921+0000] {dagbag.py:545} INFO - Filling up the DagBag from /home/ubuntu/miniconda3/envs/OCR_Gateway_Airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-07-03T05:59:03.927+0000] {processor.py:840} INFO - DAG(s) 'tutorial_dag' retrieved from /home/ubuntu/miniconda3/envs/OCR_Gateway_Airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-07-03T05:59:03.943+0000] {logging_mixin.py:188} INFO - [2025-07-03T05:59:03.943+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-07-03T05:59:03.955+0000] {logging_mixin.py:188} INFO - [2025-07-03T05:59:03.954+0000] {dag.py:3954} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2025-07-03T05:59:03.977+0000] {processor.py:183} INFO - Processing /home/ubuntu/miniconda3/envs/OCR_Gateway_Airflow/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py took 0.066 seconds
