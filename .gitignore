@@ -1,2 +1,6 @@
 init.sh
 log
+__pycache__/
+
+environment.txt
+environment.yml
