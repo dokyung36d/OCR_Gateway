@@ -6,4 +6,4 @@ environment.txt
 environment.yml
 
 airflow/*
-!airflow/dags/
+!airflow/dags/airflow.db
